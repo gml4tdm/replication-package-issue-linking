@@ -1,0 +1,212 @@
+{
+  "spring-data-mongodb-no-sub-tokens-bm25": {
+    "retrieval-precision-top-1": {
+      "p-value": 0.0013807423837317214,
+      "statistic": 0.14590107946191683
+    },
+    "retrieval-precision-top-5": {
+      "p-value": 0.18276606813439428,
+      "statistic": 0.06104034821910392
+    },
+    "retrieval-precision-top-10": {
+      "p-value": 0.15837996305900529,
+      "statistic": 0.06461839214440748
+    },
+    "hit-rate-top-5": {
+      "p-value": 0.033386455218222394,
+      "statistic": 0.09732894177258973
+    },
+    "hit-rate-top-10": {
+      "p-value": 0.006513516168547902,
+      "statistic": 0.12428650412302618
+    },
+    "retrieval-recall-top-1": {
+      "p-value": 0.0002758034751727974,
+      "statistic": 0.16563692547408876
+    },
+    "retrieval-recall-top-5": {
+      "p-value": 0.00895495068136024,
+      "statistic": 0.11943552173158345
+    },
+    "retrieval-recall-top-10": {
+      "p-value": 0.0003427448220523912,
+      "statistic": 0.1631040207542069
+    },
+    "r-precision": {
+      "p-value": 0.021457036649181107,
+      "statistic": 0.10517590359756984
+    },
+    "mrr": {
+      "p-value": 0.0007916263487440587,
+      "statistic": 0.1529825649577454
+    }
+  },
+  "spring-data-mongodb-no-sub-tokens-lsa-1000": {
+    "retrieval-precision-top-1": {
+      "p-value": 0.004573940316195047,
+      "statistic": 0.12948999122699897
+    },
+    "retrieval-precision-top-5": {
+      "p-value": 0.43017574810823145,
+      "statistic": 0.03616591665443691
+    },
+    "retrieval-precision-top-10": {
+      "p-value": 0.4819024822505745,
+      "statistic": 0.03224177405687272
+    },
+    "hit-rate-top-5": {
+      "p-value": 0.056910711402377634,
+      "statistic": 0.08714917077801997
+    },
+    "hit-rate-top-10": {
+      "p-value": 0.014692410493998729,
+      "statistic": 0.11154081478424709
+    },
+    "retrieval-recall-top-1": {
+      "p-value": 0.0010427423987982454,
+      "statistic": 0.14951344335204564
+    },
+    "retrieval-recall-top-5": {
+      "p-value": 0.009928069579274373,
+      "statistic": 0.11782726359765079
+    },
+    "retrieval-recall-top-10": {
+      "p-value": 0.002042134516562831,
+      "statistic": 0.1407263497976692
+    },
+    "r-precision": {
+      "p-value": 0.02078499592177289,
+      "statistic": 0.1057226558309532
+    },
+    "mrr": {
+      "p-value": 0.0038253702190506546,
+      "statistic": 0.13205277726719664
+    }
+  },
+  "spring-data-mongodb-no-sub-tokens-lsa-500": {
+    "retrieval-precision-top-1": {
+      "p-value": 0.012032045050854845,
+      "statistic": 0.11478043924528321
+    },
+    "retrieval-precision-top-5": {
+      "p-value": 0.6475626294188392,
+      "statistic": 0.020962178589701192
+    },
+    "retrieval-precision-top-10": {
+      "p-value": 0.12149827167078728,
+      "statistic": 0.07092392133730825
+    },
+    "hit-rate-top-5": {
+      "p-value": 0.19059396747833238,
+      "statistic": 0.05996733965854901
+    },
+    "hit-rate-top-10": {
+      "p-value": 0.004983921227391923,
+      "statistic": 0.12824322112812692
+    },
+    "retrieval-recall-top-1": {
+      "p-value": 0.0030974023162943253,
+      "statistic": 0.13502476097729002
+    },
+    "retrieval-recall-top-5": {
+      "p-value": 0.04362772370458338,
+      "statistic": 0.09232969948937476
+    },
+    "retrieval-recall-top-10": {
+      "p-value": 0.000372992501113426,
+      "statistic": 0.16210818664241033
+    },
+    "r-precision": {
+      "p-value": 0.03149789112455071,
+      "statistic": 0.09839069639409227
+    },
+    "mrr": {
+      "p-value": 0.005703420358858395,
+      "statistic": 0.1262631780013749
+    }
+  },
+  "spring-data-mongodb-no-sub-tokens-rvsm": {
+    "retrieval-precision-top-1": {
+      "p-value": 9.462315339248437e-06,
+      "statistic": 0.20103717214030656
+    },
+    "retrieval-precision-top-5": {
+      "p-value": 0.00017229616202698436,
+      "statistic": 0.17099955805317038
+    },
+    "retrieval-precision-top-10": {
+      "p-value": 0.09468491731391906,
+      "statistic": 0.07652651477332745
+    },
+    "hit-rate-top-5": {
+      "p-value": 3.02188718380768e-05,
+      "statistic": 0.18957745611122362
+    },
+    "hit-rate-top-10": {
+      "p-value": 0.008323743500298266,
+      "statistic": 0.12056407326055775
+    },
+    "retrieval-recall-top-1": {
+      "p-value": 4.478408847258581e-06,
+      "statistic": 0.20808671563088418
+    },
+    "retrieval-recall-top-5": {
+      "p-value": 1.2296937887145868e-06,
+      "statistic": 0.2197281715131477
+    },
+    "retrieval-recall-top-10": {
+      "p-value": 0.0009060497079591578,
+      "statistic": 0.15129179283423946
+    },
+    "r-precision": {
+      "p-value": 0.0014293547292820383,
+      "statistic": 0.1454502663167308
+    },
+    "mrr": {
+      "p-value": 8.444965796238491e-06,
+      "statistic": 0.2021250247438906
+    }
+  },
+  "spring-data-mongodb-no-sub-tokens-tfidf": {
+    "retrieval-precision-top-1": {
+      "p-value": 0.01872417349085358,
+      "statistic": 0.10750088386992082
+    },
+    "retrieval-precision-top-5": {
+      "p-value": 0.7487558213421834,
+      "statistic": 0.014686945420306458
+    },
+    "retrieval-precision-top-10": {
+      "p-value": 0.6467694922833657,
+      "statistic": 0.02101278201301333
+    },
+    "hit-rate-top-5": {
+      "p-value": 0.19784752490917895,
+      "statistic": 0.059001565105598244
+    },
+    "hit-rate-top-10": {
+      "p-value": 0.06871700090181002,
+      "statistic": 0.08333080467717256
+    },
+    "retrieval-recall-top-1": {
+      "p-value": 0.0057173707314424485,
+      "statistic": 0.12622705955193006
+    },
+    "retrieval-recall-top-5": {
+      "p-value": 0.04429197380446491,
+      "statistic": 0.09204113177593626
+    },
+    "retrieval-recall-top-10": {
+      "p-value": 0.005144448691540603,
+      "statistic": 0.12778012595680352
+    },
+    "r-precision": {
+      "p-value": 0.09552831821922882,
+      "statistic": 0.0763321900228917
+    },
+    "mrr": {
+      "p-value": 0.014835386766941783,
+      "statistic": 0.11138177968780477
+    }
+  }
+}

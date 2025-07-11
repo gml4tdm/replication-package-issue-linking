@@ -1,0 +1,4842 @@
+[
+  {
+    "issue-key": "AVRO-1969",
+    "count": 1,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-1857",
+    "count": 47,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-1990",
+    "count": 9,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-1401",
+    "count": 14,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-1971",
+    "count": 2,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-1985",
+    "count": 13,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-2035",
+    "count": 13,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-2040",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-2056",
+    "count": 6,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-2054",
+    "count": 10,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-2050",
+    "count": 4,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-2049",
+    "count": 13,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-2048",
+    "count": 9,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-2061",
+    "count": 5,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-1931",
+    "count": 2,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-1574",
+    "count": 4,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-2066",
+    "count": 4,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-1933",
+    "count": 4,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-2072",
+    "count": 2,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-2059",
+    "count": 0,
+    "issue-type": "New Feature"
+  },
+  {
+    "issue-key": "AVRO-2053",
+    "count": 8,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-2055",
+    "count": 1,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-1213",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-2003",
+    "count": 12,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-1047",
+    "count": 1,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-2080",
+    "count": 10,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-2118",
+    "count": 0,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-2114",
+    "count": 36,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-2115",
+    "count": 2,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-2117",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-2120",
+    "count": 2,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-2109",
+    "count": 3,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-2122",
+    "count": 5,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-1957",
+    "count": 6,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-2143",
+    "count": 4,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-2147",
+    "count": 35,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-2067",
+    "count": 2,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-2081",
+    "count": 2,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-2113",
+    "count": 3,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-1340",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-2189",
+    "count": 2,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-2195",
+    "count": 0,
+    "issue-type": "New Feature"
+  },
+  {
+    "issue-key": "AVRO-2079",
+    "count": 1,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-2214",
+    "count": 2,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-1635",
+    "count": 18,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-2229",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-2014",
+    "count": 4,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-2241",
+    "count": 9,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-2090",
+    "count": 5,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-2249",
+    "count": 13,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "AVRO-2207",
+    "count": 1,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-2251",
+    "count": 0,
+    "issue-type": "Test"
+  },
+  {
+    "issue-key": "AVRO-1887",
+    "count": 0,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "AVRO-2234",
+    "count": 2,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-2051",
+    "count": 6,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-2240",
+    "count": 3,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-2228",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-2245",
+    "count": 7,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-2127",
+    "count": 1,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-2183",
+    "count": 5,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-2262",
+    "count": 4,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "AVRO-1256",
+    "count": 5,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-2265",
+    "count": 0,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "AVRO-1702",
+    "count": 1,
+    "issue-type": "New Feature"
+  },
+  {
+    "issue-key": "AVRO-2268",
+    "count": 5,
+    "issue-type": "Test"
+  },
+  {
+    "issue-key": "AVRO-1605",
+    "count": 0,
+    "issue-type": "Sub-task"
+  },
+  {
+    "issue-key": "AVRO-2239",
+    "count": 10,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-2267",
+    "count": 1,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-2039",
+    "count": 1,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-2244",
+    "count": 1,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-1658",
+    "count": 3,
+    "issue-type": "New Feature"
+  },
+  {
+    "issue-key": "AVRO-2269",
+    "count": 1,
+    "issue-type": "Test"
+  },
+  {
+    "issue-key": "AVRO-2181",
+    "count": 2,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-2142",
+    "count": 1,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-2274",
+    "count": 3,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-2276",
+    "count": 2,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-2129",
+    "count": 3,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-2131",
+    "count": 4,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-2226",
+    "count": 4,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-1743",
+    "count": 8,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-1858",
+    "count": 1,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-1528",
+    "count": 2,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-1939",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-1542",
+    "count": 3,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-2192",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-2155",
+    "count": 0,
+    "issue-type": "New Feature"
+  },
+  {
+    "issue-key": "AVRO-2156",
+    "count": 0,
+    "issue-type": "New Feature"
+  },
+  {
+    "issue-key": "AVRO-1952",
+    "count": 1,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-1167",
+    "count": 8,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-2026",
+    "count": 4,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-2058",
+    "count": 12,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-2004",
+    "count": 0,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-2184",
+    "count": 22,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-2034",
+    "count": 1,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-1777",
+    "count": 7,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-1891",
+    "count": 51,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-2065",
+    "count": 35,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-2286",
+    "count": 3,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-2218",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-2288",
+    "count": 7,
+    "issue-type": "Sub-task"
+  },
+  {
+    "issue-key": "AVRO-1176",
+    "count": 32,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-2290",
+    "count": 15,
+    "issue-type": "Sub-task"
+  },
+  {
+    "issue-key": "AVRO-2297",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-2295",
+    "count": 8,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-2112",
+    "count": 1,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-1946",
+    "count": 0,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-1214",
+    "count": 9,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-1577",
+    "count": 2,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-2303",
+    "count": 3,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-2238",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-2306",
+    "count": 3,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-2308",
+    "count": 1,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-2309",
+    "count": 1,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-2310",
+    "count": 1,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-1381",
+    "count": 1,
+    "issue-type": "New Feature"
+  },
+  {
+    "issue-key": "AVRO-2311",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-2106",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-2302",
+    "count": 4,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-1816",
+    "count": 1,
+    "issue-type": "New Feature"
+  },
+  {
+    "issue-key": "AVRO-2321",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-1989",
+    "count": 4,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-1981",
+    "count": 8,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-2329",
+    "count": 1,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-1810",
+    "count": 13,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-2339",
+    "count": 1,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-2338",
+    "count": 4,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-2331",
+    "count": 1,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-2340",
+    "count": 2,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-2341",
+    "count": 1,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-2347",
+    "count": 2,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-2351",
+    "count": 11,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-2352",
+    "count": 3,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-2350",
+    "count": 3,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-2349",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-2348",
+    "count": 7,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-2353",
+    "count": 0,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "AVRO-2356",
+    "count": 6,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-2355",
+    "count": 2,
+    "issue-type": "New Feature"
+  },
+  {
+    "issue-key": "AVRO-2630",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-2346",
+    "count": 2,
+    "issue-type": "New Feature"
+  },
+  {
+    "issue-key": "AVRO-2336",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-2199",
+    "count": 1,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-2357",
+    "count": 8,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-2365",
+    "count": 4,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-2364",
+    "count": 6,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-813",
+    "count": 20,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-2200",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-2332",
+    "count": 3,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-732",
+    "count": 1,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-2368",
+    "count": 1,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "AVRO-1275",
+    "count": 3,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-1738",
+    "count": 1,
+    "issue-type": "New Feature"
+  },
+  {
+    "issue-key": "AVRO-2202",
+    "count": 3,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-2369",
+    "count": 4,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "AVRO-2318",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-2373",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-2375",
+    "count": 1,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-2344",
+    "count": 1,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-2275",
+    "count": 1,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-2377",
+    "count": 2,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-2381",
+    "count": 0,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-2383",
+    "count": 3,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-2386",
+    "count": 6,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-2408",
+    "count": 0,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-2391",
+    "count": 0,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "AVRO-1928",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-2104",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-2396",
+    "count": 17,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-1762",
+    "count": 12,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-2400",
+    "count": 7,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-2415",
+    "count": 11,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-2421",
+    "count": 1,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-1837",
+    "count": 1,
+    "issue-type": "New Feature"
+  },
+  {
+    "issue-key": "AVRO-2404",
+    "count": 1,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "AVRO-2444",
+    "count": 26,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-2413",
+    "count": 0,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "AVRO-2440",
+    "count": 2,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-2298",
+    "count": 7,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-2439",
+    "count": 9,
+    "issue-type": "Test"
+  },
+  {
+    "issue-key": "AVRO-2448",
+    "count": 5,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-2442",
+    "count": 20,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-2445",
+    "count": 0,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "AVRO-2426",
+    "count": 9,
+    "issue-type": "New Feature"
+  },
+  {
+    "issue-key": "AVRO-2422",
+    "count": 6,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-2450",
+    "count": 1,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-2446",
+    "count": 0,
+    "issue-type": "New Feature"
+  },
+  {
+    "issue-key": "AVRO-2424",
+    "count": 14,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-2452",
+    "count": 21,
+    "issue-type": "Test"
+  },
+  {
+    "issue-key": "AVRO-2460",
+    "count": 1,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-2459",
+    "count": 0,
+    "issue-type": "Test"
+  },
+  {
+    "issue-key": "AVRO-2464",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-2328",
+    "count": 4,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "AVRO-2437",
+    "count": 21,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-2456",
+    "count": 1,
+    "issue-type": "Test"
+  },
+  {
+    "issue-key": "AVRO-2469",
+    "count": 2,
+    "issue-type": "Test"
+  },
+  {
+    "issue-key": "AVRO-2410",
+    "count": 1,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "AVRO-1852",
+    "count": 3,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-2461",
+    "count": 1,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-2489",
+    "count": 14,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-2491",
+    "count": 3,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-2482",
+    "count": 1,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-2473",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-2500",
+    "count": 2,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-2496",
+    "count": 1,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-2494",
+    "count": 2,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-2454",
+    "count": 2,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-2505",
+    "count": 5,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-2465",
+    "count": 1,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-2468",
+    "count": 35,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-2512",
+    "count": 1,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "AVRO-2515",
+    "count": 1,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-2517",
+    "count": 1,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-2526",
+    "count": 1,
+    "issue-type": "Test"
+  },
+  {
+    "issue-key": "AVRO-2527",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-2481",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-2507",
+    "count": 3,
+    "issue-type": "Test"
+  },
+  {
+    "issue-key": "AVRO-2543",
+    "count": 0,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "AVRO-2546",
+    "count": 2,
+    "issue-type": "New Feature"
+  },
+  {
+    "issue-key": "AVRO-2335",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-2566",
+    "count": 3,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-2499",
+    "count": 7,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-2560",
+    "count": 3,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-2557",
+    "count": 1,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-2559",
+    "count": 2,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-2522",
+    "count": 6,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-2587",
+    "count": 0,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "AVRO-2576",
+    "count": 4,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-2581",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-2601",
+    "count": 1,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-2593",
+    "count": 6,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-1788",
+    "count": 6,
+    "issue-type": "Wish"
+  },
+  {
+    "issue-key": "AVRO-2503",
+    "count": 0,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-2603",
+    "count": 2,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-2580",
+    "count": 0,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-2577",
+    "count": 3,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-2605",
+    "count": 2,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-2578",
+    "count": 4,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-2562",
+    "count": 28,
+    "issue-type": "New Feature"
+  },
+  {
+    "issue-key": "AVRO-2432",
+    "count": 5,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-2609",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-2614",
+    "count": 1,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-2600",
+    "count": 4,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-2606",
+    "count": 4,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-2429",
+    "count": 1,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-2620",
+    "count": 10,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-2615",
+    "count": 4,
+    "issue-type": "Test"
+  },
+  {
+    "issue-key": "AVRO-2617",
+    "count": 1,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-2618",
+    "count": 3,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-2611",
+    "count": 3,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-2635",
+    "count": 7,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "AVRO-621",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-2627",
+    "count": 3,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-2629",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-1880",
+    "count": 8,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-748",
+    "count": 5,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-2548",
+    "count": 12,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-2595",
+    "count": 0,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-831",
+    "count": 1,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-2594",
+    "count": 7,
+    "issue-type": "Wish"
+  },
+  {
+    "issue-key": "AVRO-2625",
+    "count": 6,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-2644",
+    "count": 10,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-2563",
+    "count": 1,
+    "issue-type": "Test"
+  },
+  {
+    "issue-key": "AVRO-2652",
+    "count": 1,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-2623",
+    "count": 1,
+    "issue-type": "Test"
+  },
+  {
+    "issue-key": "AVRO-2661",
+    "count": 1,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "AVRO-2654",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-2645",
+    "count": 1,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-2656",
+    "count": 3,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "AVRO-2677",
+    "count": 3,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-2663",
+    "count": 0,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-2679",
+    "count": 0,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "AVRO-2675",
+    "count": 0,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-2556",
+    "count": 2,
+    "issue-type": "New Feature"
+  },
+  {
+    "issue-key": "AVRO-2708",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-2689",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-2592",
+    "count": 8,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-2247",
+    "count": 2,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-2641",
+    "count": 8,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-2725",
+    "count": 3,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-2695",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-2359",
+    "count": 0,
+    "issue-type": "New Feature"
+  },
+  {
+    "issue-key": "AVRO-2705",
+    "count": 8,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-2031",
+    "count": 1,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-1646",
+    "count": 0,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-2726",
+    "count": 0,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-2693",
+    "count": 2,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-2716",
+    "count": 1,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-2741",
+    "count": 3,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-2740",
+    "count": 1,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "AVRO-2711",
+    "count": 3,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-2691",
+    "count": 2,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-2747",
+    "count": 2,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-2692",
+    "count": 9,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-2756",
+    "count": 0,
+    "issue-type": "Test"
+  },
+  {
+    "issue-key": "AVRO-2755",
+    "count": 4,
+    "issue-type": "Test"
+  },
+  {
+    "issue-key": "AVRO-2174",
+    "count": 4,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-2754",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-2761",
+    "count": 2,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-1461",
+    "count": 0,
+    "issue-type": "Wish"
+  },
+  {
+    "issue-key": "AVRO-2759",
+    "count": 3,
+    "issue-type": "Test"
+  },
+  {
+    "issue-key": "AVRO-2694",
+    "count": 2,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-2696",
+    "count": 3,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-2698",
+    "count": 1,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-2700",
+    "count": 3,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-2701",
+    "count": 2,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-2788",
+    "count": 2,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-2704",
+    "count": 2,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-2749",
+    "count": 1,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-2791",
+    "count": 10,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-2765",
+    "count": 5,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-2801",
+    "count": 1,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-2813",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-2790",
+    "count": 6,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-2748",
+    "count": 2,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-2387",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-2814",
+    "count": 2,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-2723",
+    "count": 3,
+    "issue-type": "New Feature"
+  },
+  {
+    "issue-key": "AVRO-2613",
+    "count": 3,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-2819",
+    "count": 3,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-2535",
+    "count": 2,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-2802",
+    "count": 10,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-2815",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-2785",
+    "count": 4,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-2800",
+    "count": 1,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-2822",
+    "count": 9,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-2745",
+    "count": 1,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-2827",
+    "count": 6,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-2751",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-2833",
+    "count": 6,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-2828",
+    "count": 1,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-2668",
+    "count": 5,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-2752",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-2808",
+    "count": 10,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-2839",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-2453",
+    "count": 1,
+    "issue-type": "Test"
+  },
+  {
+    "issue-key": "AVRO-2551",
+    "count": 2,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-2486",
+    "count": 1,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-2523",
+    "count": 53,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-2554",
+    "count": 25,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-2589",
+    "count": 1,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-2569",
+    "count": 2,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-2419",
+    "count": 2,
+    "issue-type": "Wish"
+  },
+  {
+    "issue-key": "AVRO-2573",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-2608",
+    "count": 9,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-2648",
+    "count": 12,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-2762",
+    "count": 8,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-2070",
+    "count": 5,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-2763",
+    "count": 7,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-2639",
+    "count": 3,
+    "issue-type": "New Feature"
+  },
+  {
+    "issue-key": "AVRO-2278",
+    "count": 4,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-2714",
+    "count": 5,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-2753",
+    "count": 3,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-2784",
+    "count": 2,
+    "issue-type": "New Feature"
+  },
+  {
+    "issue-key": "AVRO-2792",
+    "count": 9,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-2782",
+    "count": 3,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-1720",
+    "count": 13,
+    "issue-type": "New Feature"
+  },
+  {
+    "issue-key": "AVRO-2624",
+    "count": 8,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-2845",
+    "count": 0,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-2844",
+    "count": 0,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-2703",
+    "count": 2,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-2842",
+    "count": 1,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-2836",
+    "count": 8,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-2068",
+    "count": 7,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-2806",
+    "count": 1,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "AVRO-2438",
+    "count": 24,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-2649",
+    "count": 1,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-2579",
+    "count": 8,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-2493",
+    "count": 23,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-2514",
+    "count": 8,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-2733",
+    "count": 2,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "AVRO-2545",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-2837",
+    "count": 1,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-2850",
+    "count": 0,
+    "issue-type": "New Feature"
+  },
+  {
+    "issue-key": "AVRO-2780",
+    "count": 34,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-1669",
+    "count": 2,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-2757",
+    "count": 7,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-2382",
+    "count": 4,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-2889",
+    "count": 17,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "AVRO-2571",
+    "count": 0,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-2908",
+    "count": 4,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-2893",
+    "count": 2,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-2914",
+    "count": 1,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "AVRO-2919",
+    "count": 1,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "AVRO-2399",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-2917",
+    "count": 1,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "AVRO-2881",
+    "count": 1,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-2906",
+    "count": 1,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-2855",
+    "count": 0,
+    "issue-type": "New Feature"
+  },
+  {
+    "issue-key": "AVRO-2920",
+    "count": 1,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "AVRO-2907",
+    "count": 5,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-2096",
+    "count": 11,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-2891",
+    "count": 3,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-2905",
+    "count": 8,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-2936",
+    "count": 1,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-2817",
+    "count": 25,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-2937",
+    "count": 11,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-2944",
+    "count": 5,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-2924",
+    "count": 6,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-2750",
+    "count": 1,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-2975",
+    "count": 11,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-2702",
+    "count": 7,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-2984",
+    "count": 3,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-3008",
+    "count": 3,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "AVRO-3009",
+    "count": 1,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-2998",
+    "count": 1,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-2999",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-3000",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-2983",
+    "count": 6,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-2963",
+    "count": 6,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "AVRO-3030",
+    "count": 1,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-3033",
+    "count": 30,
+    "issue-type": "Test"
+  },
+  {
+    "issue-key": "AVRO-3032",
+    "count": 1,
+    "issue-type": "Test"
+  },
+  {
+    "issue-key": "AVRO-3005",
+    "count": 22,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-3049",
+    "count": 3,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-3060",
+    "count": 1,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-2961",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-3014",
+    "count": 21,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-2471",
+    "count": 30,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-3044",
+    "count": 9,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-3069",
+    "count": 1,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "AVRO-3051",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-3072",
+    "count": 1,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-1751",
+    "count": 1,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "AVRO-3085",
+    "count": 1,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-3093",
+    "count": 2,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "AVRO-3100",
+    "count": 9,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-1938",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-3094",
+    "count": 11,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-3065",
+    "count": 0,
+    "issue-type": "New Feature"
+  },
+  {
+    "issue-key": "AVRO-3108",
+    "count": 0,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "AVRO-3120",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-3116",
+    "count": 14,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-3124",
+    "count": 3,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-3112",
+    "count": 2,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "AVRO-3048",
+    "count": 8,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-3036",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-3129",
+    "count": 6,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-3097",
+    "count": 2,
+    "issue-type": "Test"
+  },
+  {
+    "issue-key": "AVRO-3054",
+    "count": 2,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-3104",
+    "count": 8,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-3146",
+    "count": 1,
+    "issue-type": "Test"
+  },
+  {
+    "issue-key": "AVRO-3152",
+    "count": 1,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-3118",
+    "count": 9,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-3148",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-3147",
+    "count": 1,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "AVRO-2921",
+    "count": 0,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "AVRO-3163",
+    "count": 0,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "AVRO-3165",
+    "count": 2,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-3144",
+    "count": 3,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-2720",
+    "count": 8,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-3174",
+    "count": 1,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-3180",
+    "count": 3,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-3183",
+    "count": 16,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-3175",
+    "count": 26,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-2923",
+    "count": 8,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-3162",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-3067",
+    "count": 6,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "AVRO-3191",
+    "count": 0,
+    "issue-type": "New Feature"
+  },
+  {
+    "issue-key": "AVRO-3007",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-3182",
+    "count": 20,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-3200",
+    "count": 1,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-3201",
+    "count": 1,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-3172",
+    "count": 0,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-3134",
+    "count": 3,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-3075",
+    "count": 3,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-3082",
+    "count": 1,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-3204",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-3184",
+    "count": 21,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-3206",
+    "count": 6,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-2840",
+    "count": 15,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-3167",
+    "count": 1,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-3042",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-3208",
+    "count": 1,
+    "issue-type": "New Feature"
+  },
+  {
+    "issue-key": "AVRO-3186",
+    "count": 19,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-3095",
+    "count": 5,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-2863",
+    "count": 6,
+    "issue-type": "Wish"
+  },
+  {
+    "issue-key": "AVRO-2633",
+    "count": 4,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-3203",
+    "count": 5,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-3171",
+    "count": 7,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-3222",
+    "count": 2,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "AVRO-2903",
+    "count": 6,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-2666",
+    "count": 0,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-3236",
+    "count": 3,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-3225",
+    "count": 8,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-3226",
+    "count": 9,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-2498",
+    "count": 3,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-3239",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-3268",
+    "count": 9,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-3252",
+    "count": 6,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-3721",
+    "count": 6,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-3218",
+    "count": 9,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-3243",
+    "count": 1,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-3229",
+    "count": 8,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-2867",
+    "count": 17,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-3265",
+    "count": 0,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-3205",
+    "count": 3,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "AVRO-3234",
+    "count": 1,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-3246",
+    "count": 1,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-3245",
+    "count": 1,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-3247",
+    "count": 1,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "AVRO-2722",
+    "count": 6,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-3197",
+    "count": 0,
+    "issue-type": "Wish"
+  },
+  {
+    "issue-key": "AVRO-3216",
+    "count": 2,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-3240",
+    "count": 9,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-3232",
+    "count": 2,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-3284",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-3250",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-3214",
+    "count": 1,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-3303",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-3306",
+    "count": 4,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-3302",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-3248",
+    "count": 2,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-3312",
+    "count": 5,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-3316",
+    "count": 60,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-3315",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-3314",
+    "count": 5,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-3317",
+    "count": 1,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-3330",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-3328",
+    "count": 1,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-3327",
+    "count": 1,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-3326",
+    "count": 4,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-3325",
+    "count": 3,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-3324",
+    "count": 4,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-3323",
+    "count": 3,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-3329",
+    "count": 4,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-3333",
+    "count": 7,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-3339",
+    "count": 0,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "AVRO-3336",
+    "count": 2,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-3346",
+    "count": 1,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-3344",
+    "count": 1,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-3342",
+    "count": 1,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-3341",
+    "count": 1,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-3335",
+    "count": 2,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-3334",
+    "count": 5,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-3343",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-3305",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-3223",
+    "count": 18,
+    "issue-type": "New Feature"
+  },
+  {
+    "issue-key": "AVRO-3345",
+    "count": 2,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-3347",
+    "count": 4,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-3348",
+    "count": 2,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-3349",
+    "count": 2,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-3350",
+    "count": 3,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-3352",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-3331",
+    "count": 3,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-2862",
+    "count": 13,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-3353",
+    "count": 2,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-3354",
+    "count": 1,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-3355",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-3356",
+    "count": 3,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-3357",
+    "count": 1,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-3358",
+    "count": 1,
+    "issue-type": "New Feature"
+  },
+  {
+    "issue-key": "AVRO-3360",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-3366",
+    "count": 1,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-3359",
+    "count": 1,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-3361",
+    "count": 4,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-3367",
+    "count": 2,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-3133",
+    "count": 6,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-3294",
+    "count": 2,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-3371",
+    "count": 53,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-3374",
+    "count": 1,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-3259",
+    "count": 7,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-1851",
+    "count": 45,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-3380",
+    "count": 4,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-3405",
+    "count": 2,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-3382",
+    "count": 4,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-3375",
+    "count": 0,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-3407",
+    "count": 3,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-3410",
+    "count": 9,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-2175",
+    "count": 3,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "AVRO-3418",
+    "count": 23,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-3388",
+    "count": 1,
+    "issue-type": "New Feature"
+  },
+  {
+    "issue-key": "AVRO-3370",
+    "count": 7,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-3428",
+    "count": 2,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "AVRO-1965",
+    "count": 7,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-3421",
+    "count": 1,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-3433",
+    "count": 5,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-3440",
+    "count": 2,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-3448",
+    "count": 0,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-3446",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-3378",
+    "count": 4,
+    "issue-type": "Sub-task"
+  },
+  {
+    "issue-key": "AVRO-3441",
+    "count": 2,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-3461",
+    "count": 0,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-3451",
+    "count": 7,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-3452",
+    "count": 2,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-3464",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-3466",
+    "count": 15,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-3460",
+    "count": 18,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-3471",
+    "count": 0,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-3468",
+    "count": 1,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-3435",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-3483",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-3453",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-265",
+    "count": 1,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-3488",
+    "count": 0,
+    "issue-type": "Sub-task"
+  },
+  {
+    "issue-key": "AVRO-3479",
+    "count": 1,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-3492",
+    "count": 4,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-3494",
+    "count": 0,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "AVRO-3424",
+    "count": 2,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-3003",
+    "count": 1,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-2883",
+    "count": 8,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-2211",
+    "count": 1,
+    "issue-type": "Wish"
+  },
+  {
+    "issue-key": "AVRO-3841",
+    "count": 39,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-3495",
+    "count": 3,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-3491",
+    "count": 5,
+    "issue-type": "Sub-task"
+  },
+  {
+    "issue-key": "AVRO-3496",
+    "count": 1,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-3477",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-3465",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-3484",
+    "count": 1,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-3497",
+    "count": 6,
+    "issue-type": "Sub-task"
+  },
+  {
+    "issue-key": "AVRO-3500",
+    "count": 1,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-3498",
+    "count": 3,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-3490",
+    "count": 4,
+    "issue-type": "Sub-task"
+  },
+  {
+    "issue-key": "AVRO-3427",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-3482",
+    "count": 7,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-2870",
+    "count": 2,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-3499",
+    "count": 10,
+    "issue-type": "Sub-task"
+  },
+  {
+    "issue-key": "AVRO-3475",
+    "count": 3,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-3078",
+    "count": 3,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-3506",
+    "count": 1,
+    "issue-type": "New Feature"
+  },
+  {
+    "issue-key": "AVRO-3511",
+    "count": 0,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-3507",
+    "count": 1,
+    "issue-type": "New Feature"
+  },
+  {
+    "issue-key": "AVRO-3516",
+    "count": 0,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-3512",
+    "count": 8,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-3518",
+    "count": 1,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-3130",
+    "count": 6,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-3522",
+    "count": 4,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-3526",
+    "count": 3,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-3529",
+    "count": 19,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-3533",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-3521",
+    "count": 2,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-3076",
+    "count": 5,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-3537",
+    "count": 2,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-3542",
+    "count": 2,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-3543",
+    "count": 3,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-3549",
+    "count": 5,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-3544",
+    "count": 0,
+    "issue-type": "Sub-task"
+  },
+  {
+    "issue-key": "AVRO-3545",
+    "count": 0,
+    "issue-type": "Sub-task"
+  },
+  {
+    "issue-key": "AVRO-3539",
+    "count": 0,
+    "issue-type": "Sub-task"
+  },
+  {
+    "issue-key": "AVRO-3555",
+    "count": 0,
+    "issue-type": "Sub-task"
+  },
+  {
+    "issue-key": "AVRO-3556",
+    "count": 0,
+    "issue-type": "Sub-task"
+  },
+  {
+    "issue-key": "AVRO-3557",
+    "count": 1,
+    "issue-type": "Sub-task"
+  },
+  {
+    "issue-key": "AVRO-3558",
+    "count": 2,
+    "issue-type": "Test"
+  },
+  {
+    "issue-key": "AVRO-3559",
+    "count": 0,
+    "issue-type": "Sub-task"
+  },
+  {
+    "issue-key": "AVRO-3266",
+    "count": 7,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-3531",
+    "count": 29,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-3563",
+    "count": 0,
+    "issue-type": "Sub-task"
+  },
+  {
+    "issue-key": "AVRO-3219",
+    "count": 0,
+    "issue-type": "New Feature"
+  },
+  {
+    "issue-key": "AVRO-2774",
+    "count": 5,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-3575",
+    "count": 0,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "AVRO-3579",
+    "count": 3,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-3581",
+    "count": 2,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-3585",
+    "count": 5,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-3586",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-3547",
+    "count": 3,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-3592",
+    "count": 0,
+    "issue-type": "New Feature"
+  },
+  {
+    "issue-key": "AVRO-3434",
+    "count": 5,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-3600",
+    "count": 1,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-3601",
+    "count": 4,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-3608",
+    "count": 10,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-3609",
+    "count": 2,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-3616",
+    "count": 14,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-3602",
+    "count": 1,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-3621",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-3274",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-3613",
+    "count": 1,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-3568",
+    "count": 8,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-3001",
+    "count": 1,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-3597",
+    "count": 5,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-3622",
+    "count": 7,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-3625",
+    "count": 2,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-2831",
+    "count": 15,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-3628",
+    "count": 3,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-3618",
+    "count": 7,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-3624",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-3630",
+    "count": 10,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-3632",
+    "count": 0,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-3633",
+    "count": 7,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-3634",
+    "count": 5,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-3639",
+    "count": 4,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-3642",
+    "count": 5,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-3645",
+    "count": 15,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-3644",
+    "count": 2,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-3650",
+    "count": 8,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-3661",
+    "count": 0,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "AVRO-3532",
+    "count": 4,
+    "issue-type": "Wish"
+  },
+  {
+    "issue-key": "AVRO-3663",
+    "count": 2,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-3653",
+    "count": 1,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "AVRO-3657",
+    "count": 5,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-3667",
+    "count": 0,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-3672",
+    "count": 0,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "AVRO-3662",
+    "count": 7,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-3536",
+    "count": 15,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-3674",
+    "count": 14,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-3676",
+    "count": 1,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-3678",
+    "count": 2,
+    "issue-type": "New Feature"
+  },
+  {
+    "issue-key": "AVRO-3670",
+    "count": 4,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-3680",
+    "count": 4,
+    "issue-type": "New Feature"
+  },
+  {
+    "issue-key": "AVRO-3682",
+    "count": 1,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "AVRO-3688",
+    "count": 8,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-3692",
+    "count": 10,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-3697",
+    "count": 0,
+    "issue-type": "Test"
+  },
+  {
+    "issue-key": "AVRO-3278",
+    "count": 0,
+    "issue-type": "Test"
+  },
+  {
+    "issue-key": "AVRO-3611",
+    "count": 20,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-3649",
+    "count": 2,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-3527",
+    "count": 4,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-3698",
+    "count": 6,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-3708",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-3706",
+    "count": 15,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-3709",
+    "count": 6,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-3646",
+    "count": 7,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-3715",
+    "count": 1,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-3713",
+    "count": 7,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-3717",
+    "count": 0,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-3690",
+    "count": 3,
+    "issue-type": "Test"
+  },
+  {
+    "issue-key": "AVRO-3684",
+    "count": 0,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-3718",
+    "count": 13,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-3722",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-3723",
+    "count": 1,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-2943",
+    "count": 19,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-3683",
+    "count": 7,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-3264",
+    "count": 1,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-3724",
+    "count": 17,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-3735",
+    "count": 18,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-3737",
+    "count": 17,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-3755",
+    "count": 25,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-3757",
+    "count": 1,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-3747",
+    "count": 1,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-3758",
+    "count": 6,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-3759",
+    "count": 4,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-3736",
+    "count": 1,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-3764",
+    "count": 1,
+    "issue-type": "New Feature"
+  },
+  {
+    "issue-key": "AVRO-3766",
+    "count": 2,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-3771",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-3767",
+    "count": 0,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-3772",
+    "count": 28,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-3780",
+    "count": 3,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-3756",
+    "count": 2,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-3560",
+    "count": 3,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-3773",
+    "count": 3,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-3473",
+    "count": 2,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-3761",
+    "count": 15,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-3775",
+    "count": 2,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-3783",
+    "count": 5,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-3785",
+    "count": 27,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-3794",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-3787",
+    "count": 34,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-3789",
+    "count": 20,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-3795",
+    "count": 0,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-3796",
+    "count": 0,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "AVRO-3799",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-3807",
+    "count": 1,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "AVRO-1737",
+    "count": 11,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-312",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-3809",
+    "count": 8,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-2284",
+    "count": 3,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-3812",
+    "count": 6,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-2731",
+    "count": 7,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-2764",
+    "count": 31,
+    "issue-type": "Wish"
+  },
+  {
+    "issue-key": "AVRO-2712",
+    "count": 1,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-2282",
+    "count": 5,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-2236",
+    "count": 17,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-3801",
+    "count": 1,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-3788",
+    "count": 5,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-3818",
+    "count": 6,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-3821",
+    "count": 18,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-3790",
+    "count": 6,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-3827",
+    "count": 2,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-3830",
+    "count": 2,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-3814",
+    "count": 8,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-2771",
+    "count": 8,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-3486",
+    "count": 1,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-3748",
+    "count": 3,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-3826",
+    "count": 0,
+    "issue-type": "Sub-task"
+  },
+  {
+    "issue-key": "AVRO-3829",
+    "count": 2,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-3751",
+    "count": 13,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-2307",
+    "count": 9,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-3612",
+    "count": 14,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-2885",
+    "count": 16,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-3832",
+    "count": 0,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-3749",
+    "count": 6,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-3805",
+    "count": 4,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-3836",
+    "count": 7,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-3835",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-3819",
+    "count": 4,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-3837",
+    "count": 3,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-3838",
+    "count": 2,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-3844",
+    "count": 14,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-3802",
+    "count": 7,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-3847",
+    "count": 5,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-3846",
+    "count": 1,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-3849",
+    "count": 0,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-3851",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-3403",
+    "count": 3,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-3853",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-530",
+    "count": 1,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-3704",
+    "count": 1,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-3845",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-3855",
+    "count": 8,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-2254",
+    "count": 6,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-3404",
+    "count": 2,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-3858",
+    "count": 1,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-2511",
+    "count": 21,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-3862",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-3866",
+    "count": 0,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-3865",
+    "count": 0,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-3863",
+    "count": 36,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-3660",
+    "count": 14,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-2123",
+    "count": 26,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-3878",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-3779",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-3881",
+    "count": 0,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-3879",
+    "count": 5,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-3886",
+    "count": 14,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-3887",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-3871",
+    "count": 1,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-3641",
+    "count": 3,
+    "issue-type": "New Feature"
+  },
+  {
+    "issue-key": "AVRO-3894",
+    "count": 2,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-3892",
+    "count": 8,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-3897",
+    "count": 2,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-3898",
+    "count": 9,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-3896",
+    "count": 3,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-3899",
+    "count": 0,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-3901",
+    "count": 3,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-3905",
+    "count": 6,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-3906",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-3910",
+    "count": 38,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-3904",
+    "count": 7,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-3666",
+    "count": 0,
+    "issue-type": "New Feature"
+  },
+  {
+    "issue-key": "AVRO-3912",
+    "count": 1,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-3554",
+    "count": 1,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-3916",
+    "count": 0,
+    "issue-type": "Sub-task"
+  },
+  {
+    "issue-key": "AVRO-3839",
+    "count": 3,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-3914",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-3917",
+    "count": 6,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-3377",
+    "count": 2,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-3921",
+    "count": 0,
+    "issue-type": "Test"
+  },
+  {
+    "issue-key": "AVRO-3922",
+    "count": 0,
+    "issue-type": "New Feature"
+  },
+  {
+    "issue-key": "AVRO-3889",
+    "count": 2,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-3925",
+    "count": 8,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-3920",
+    "count": 1,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-3927",
+    "count": 2,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-3928",
+    "count": 3,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-3880",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-3900",
+    "count": 2,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-3918",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-3716",
+    "count": 5,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-3926",
+    "count": 0,
+    "issue-type": "Sub-task"
+  },
+  {
+    "issue-key": "AVRO-3936",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-3930",
+    "count": 2,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-3935",
+    "count": 1,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-3939",
+    "count": 2,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-3942",
+    "count": 5,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-3938",
+    "count": 1,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-3945",
+    "count": 21,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "AVRO-2397",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-3946",
+    "count": 2,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-3948",
+    "count": 2,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-3949",
+    "count": 1,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-3950",
+    "count": 8,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-3955",
+    "count": 16,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-3953",
+    "count": 1,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-3957",
+    "count": 5,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-3959",
+    "count": 7,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-3961",
+    "count": 11,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-3956",
+    "count": 2,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-3962",
+    "count": 5,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-3960",
+    "count": 6,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-3964",
+    "count": 2,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-3860",
+    "count": 9,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-3970",
+    "count": 13,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-3974",
+    "count": 9,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-3952",
+    "count": 17,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-3977",
+    "count": 1,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-3967",
+    "count": 0,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "AVRO-3982",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-3983",
+    "count": 1,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-3677",
+    "count": 0,
+    "issue-type": "New Feature"
+  },
+  {
+    "issue-key": "AVRO-3965",
+    "count": 0,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-3987",
+    "count": 7,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-3993",
+    "count": 6,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-3995",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-3990",
+    "count": 1,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-4007",
+    "count": 2,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-3985",
+    "count": 3,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-3992",
+    "count": 14,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-4006",
+    "count": 41,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-4010",
+    "count": 2,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-3687",
+    "count": 10,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-4013",
+    "count": 4,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-3635",
+    "count": 23,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-4014",
+    "count": 3,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-4016",
+    "count": 5,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-4004",
+    "count": 18,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-4019",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-3631",
+    "count": 5,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-4021",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-4022",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-4023",
+    "count": 1,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-4024",
+    "count": 1,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-4027",
+    "count": 17,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-4029",
+    "count": 1,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-4032",
+    "count": 4,
+    "issue-type": "Wish"
+  },
+  {
+    "issue-key": "AVRO-4031",
+    "count": 6,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-4037",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-3984",
+    "count": 10,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-4038",
+    "count": 0,
+    "issue-type": "Sub-task"
+  },
+  {
+    "issue-key": "AVRO-4033",
+    "count": 7,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-4042",
+    "count": 3,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-4046",
+    "count": 2,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-4050",
+    "count": 7,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-4052",
+    "count": 2,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-4049",
+    "count": 4,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-4058",
+    "count": 1,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-4045",
+    "count": 8,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-4061",
+    "count": 1,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-4066",
+    "count": 3,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-4053",
+    "count": 1,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-4073",
+    "count": 1,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-4065",
+    "count": 7,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-4074",
+    "count": 1,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-4064",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-4070",
+    "count": 8,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-4062",
+    "count": 13,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-4075",
+    "count": 10,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-4079",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-4083",
+    "count": 1,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-4084",
+    "count": 5,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-4085",
+    "count": 5,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-2032",
+    "count": 21,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-4096",
+    "count": 0,
+    "issue-type": "Sub-task"
+  },
+  {
+    "issue-key": "AVRO-4097",
+    "count": 0,
+    "issue-type": "Sub-task"
+  },
+  {
+    "issue-key": "AVRO-4100",
+    "count": 0,
+    "issue-type": "Sub-task"
+  },
+  {
+    "issue-key": "AVRO-4086",
+    "count": 2,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-4081",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-4035",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-4105",
+    "count": 1,
+    "issue-type": "Sub-task"
+  },
+  {
+    "issue-key": "AVRO-4106",
+    "count": 0,
+    "issue-type": "Sub-task"
+  },
+  {
+    "issue-key": "AVRO-4107",
+    "count": 0,
+    "issue-type": "Sub-task"
+  },
+  {
+    "issue-key": "AVRO-4109",
+    "count": 1,
+    "issue-type": "Sub-task"
+  },
+  {
+    "issue-key": "AVRO-4111",
+    "count": 0,
+    "issue-type": "Sub-task"
+  },
+  {
+    "issue-key": "AVRO-4112",
+    "count": 1,
+    "issue-type": "Sub-task"
+  },
+  {
+    "issue-key": "AVRO-2108",
+    "count": 8,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-4114",
+    "count": 3,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-4113",
+    "count": 15,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-4060",
+    "count": 3,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-2843",
+    "count": 0,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-4117",
+    "count": 5,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-4120",
+    "count": 0,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-4121",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-4067",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-4026",
+    "count": 3,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-4123",
+    "count": 0,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-4090",
+    "count": 11,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-4132",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-4119",
+    "count": 3,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-4039",
+    "count": 22,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-4140",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-4068",
+    "count": 1,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-4139",
+    "count": 0,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-3940",
+    "count": 7,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-3791",
+    "count": 4,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-3230",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-4110",
+    "count": 10,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-4147",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-4133",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-3933",
+    "count": 2,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "AVRO-4098",
+    "count": 1,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "AVRO-3989",
+    "count": 12,
+    "issue-type": "Bug"
+  }
+]

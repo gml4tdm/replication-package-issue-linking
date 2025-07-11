@@ -1,0 +1,5022 @@
+[
+  {
+    "issue-key": "TIKA-2040",
+    "count": 1,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-2048",
+    "count": 2,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-1980",
+    "count": 3,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-1986",
+    "count": 0,
+    "issue-type": "Sub-task"
+  },
+  {
+    "issue-key": "TIKA-2002",
+    "count": 1,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-1993",
+    "count": 5,
+    "issue-type": "New Feature"
+  },
+  {
+    "issue-key": "TIKA-2031",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-1255",
+    "count": 6,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-2055",
+    "count": 25,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-2064",
+    "count": 4,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-2013",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-2047",
+    "count": 6,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-2069",
+    "count": 1,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-2093",
+    "count": 3,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-2081",
+    "count": 2,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-2095",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-2057",
+    "count": 1,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-2097",
+    "count": 0,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-2098",
+    "count": 31,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-2101",
+    "count": 31,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-2106",
+    "count": 1,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-2110",
+    "count": 1,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-2113",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-2122",
+    "count": 2,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-2123",
+    "count": 8,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-2127",
+    "count": 10,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-2133",
+    "count": 9,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-2130",
+    "count": 36,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-2144",
+    "count": 10,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-2056",
+    "count": 37,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-2111",
+    "count": 1,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-2157",
+    "count": 12,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-1896",
+    "count": 4,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-2173",
+    "count": 3,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-2174",
+    "count": 5,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-2159",
+    "count": 2,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-2175",
+    "count": 3,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-2170",
+    "count": 1,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-2169",
+    "count": 0,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-2096",
+    "count": 4,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-1321",
+    "count": 0,
+    "issue-type": "New Feature"
+  },
+  {
+    "issue-key": "TIKA-2187",
+    "count": 2,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-2090",
+    "count": 2,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-2191",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-2192",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-2210",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-2218",
+    "count": 1,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-2220",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-2221",
+    "count": 10,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-2219",
+    "count": 7,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-2190",
+    "count": 1,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-2211",
+    "count": 2,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-1946",
+    "count": 1,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-2224",
+    "count": 3,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-2228",
+    "count": 1,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-2230",
+    "count": 1,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-2232",
+    "count": 2,
+    "issue-type": "New Feature"
+  },
+  {
+    "issue-key": "TIKA-2234",
+    "count": 3,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-2235",
+    "count": 3,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-2237",
+    "count": 7,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-2134",
+    "count": 15,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-2238",
+    "count": 1,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-2241",
+    "count": 13,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-2242",
+    "count": 0,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-2231",
+    "count": 4,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-2240",
+    "count": 4,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-2244",
+    "count": 8,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-2250",
+    "count": 1,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-2249",
+    "count": 0,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-2251",
+    "count": 39,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-2255",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-2259",
+    "count": 2,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-2181",
+    "count": 1,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-2198",
+    "count": 7,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-2246",
+    "count": 2,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-2247",
+    "count": 1,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-2269",
+    "count": 6,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-2275",
+    "count": 5,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-2276",
+    "count": 6,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-2277",
+    "count": 2,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-2273",
+    "count": 2,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-2278",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-2279",
+    "count": 2,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-2286",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-2285",
+    "count": 4,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-2281",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-1865",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-2287",
+    "count": 1,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-1879",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-2290",
+    "count": 7,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-2295",
+    "count": 0,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-2236",
+    "count": 1,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-2303",
+    "count": 4,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-2300",
+    "count": 4,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-2212",
+    "count": 1,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-2245",
+    "count": 2,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-2302",
+    "count": 2,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-2317",
+    "count": 2,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-2319",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-2323",
+    "count": 1,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-2325",
+    "count": 0,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-2311",
+    "count": 2,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-2329",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-1195",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-2330",
+    "count": 1,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-2331",
+    "count": 2,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-2339",
+    "count": 2,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-2345",
+    "count": 2,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-2099",
+    "count": 0,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-2039",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-2346",
+    "count": 1,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-2322",
+    "count": 3,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-2349",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-2350",
+    "count": 4,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-2352",
+    "count": 2,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-2343",
+    "count": 1,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-2354",
+    "count": 4,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-2356",
+    "count": 2,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-2357",
+    "count": 1,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-2363",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-2360",
+    "count": 1,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-2364",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-2367",
+    "count": 3,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-2370",
+    "count": 2,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-2359",
+    "count": 5,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-2373",
+    "count": 0,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-2379",
+    "count": 27,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-2341",
+    "count": 5,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-2384",
+    "count": 2,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-2386",
+    "count": 7,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-2387",
+    "count": 1,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-1945",
+    "count": 0,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-2388",
+    "count": 1,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-2254",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-2362",
+    "count": 0,
+    "issue-type": "Wish"
+  },
+  {
+    "issue-key": "TIKA-2391",
+    "count": 1,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-2336",
+    "count": 1,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-2374",
+    "count": 1,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-2410",
+    "count": 7,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-2335",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-2089",
+    "count": 0,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-2313",
+    "count": 10,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-2419",
+    "count": 0,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-2420",
+    "count": 4,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-2422",
+    "count": 8,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-2426",
+    "count": 0,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-2433",
+    "count": 6,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-2436",
+    "count": 1,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-2438",
+    "count": 56,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-2439",
+    "count": 11,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-2434",
+    "count": 0,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-2445",
+    "count": 6,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-2447",
+    "count": 11,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-2440",
+    "count": 11,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-2448",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-2332",
+    "count": 4,
+    "issue-type": "New Feature"
+  },
+  {
+    "issue-key": "TIKA-2450",
+    "count": 4,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-2454",
+    "count": 2,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-2456",
+    "count": 2,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-2455",
+    "count": 3,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-2451",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-2460",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-2459",
+    "count": 1,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-2467",
+    "count": 2,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-2429",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-2466",
+    "count": 3,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-2470",
+    "count": 2,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-2472",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-2473",
+    "count": 4,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-2476",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-2475",
+    "count": 12,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-2469",
+    "count": 0,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-1788",
+    "count": 2,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-2478",
+    "count": 1,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-2485",
+    "count": 5,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-2491",
+    "count": 9,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-2490",
+    "count": 0,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-2488",
+    "count": 56,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-2486",
+    "count": 0,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-2483",
+    "count": 14,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-2506",
+    "count": 14,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-2347",
+    "count": 7,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-2510",
+    "count": 1,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-2511",
+    "count": 4,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-2512",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-2835",
+    "count": 1,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-2519",
+    "count": 14,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-2521",
+    "count": 0,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-2524",
+    "count": 13,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-2535",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-2531",
+    "count": 3,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-1191",
+    "count": 23,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-2509",
+    "count": 10,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-1974",
+    "count": 0,
+    "issue-type": "Sub-task"
+  },
+  {
+    "issue-key": "TIKA-2551",
+    "count": 6,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-2556",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-2547",
+    "count": 1,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-1983",
+    "count": 0,
+    "issue-type": "Sub-task"
+  },
+  {
+    "issue-key": "TIKA-2564",
+    "count": 39,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-2559",
+    "count": 23,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-2569",
+    "count": 0,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-2571",
+    "count": 6,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-2563",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-2580",
+    "count": 1,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-2588",
+    "count": 16,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-2587",
+    "count": 15,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-2578",
+    "count": 4,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-2576",
+    "count": 5,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-2594",
+    "count": 1,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-2592",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-2591",
+    "count": 21,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-2590",
+    "count": 32,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-2568",
+    "count": 5,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-2530",
+    "count": 15,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-2604",
+    "count": 29,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-2585",
+    "count": 3,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-2607",
+    "count": 7,
+    "issue-type": "Sub-task"
+  },
+  {
+    "issue-key": "TIKA-2579",
+    "count": 35,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-2614",
+    "count": 2,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-2616",
+    "count": 3,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-2617",
+    "count": 1,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-2618",
+    "count": 6,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-2621",
+    "count": 1,
+    "issue-type": "Wish"
+  },
+  {
+    "issue-key": "TIKA-2582",
+    "count": 8,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-2584",
+    "count": 2,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-2613",
+    "count": 2,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-2620",
+    "count": 5,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-2625",
+    "count": 6,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-2626",
+    "count": 2,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-2635",
+    "count": 1,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-2639",
+    "count": 1,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-1288",
+    "count": 0,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-2644",
+    "count": 2,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-2479",
+    "count": 0,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-2645",
+    "count": 5,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-2520",
+    "count": 9,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-2100",
+    "count": 5,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-2655",
+    "count": 2,
+    "issue-type": "New Feature"
+  },
+  {
+    "issue-key": "TIKA-2656",
+    "count": 3,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-2657",
+    "count": 1,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-2446",
+    "count": 14,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-2659",
+    "count": 1,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-2662",
+    "count": 1,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-2668",
+    "count": 1,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-2660",
+    "count": 0,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-2677",
+    "count": 17,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-2673",
+    "count": 1,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-2669",
+    "count": 4,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-2675",
+    "count": 5,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-2687",
+    "count": 0,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-2683",
+    "count": 0,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-2688",
+    "count": 8,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-2692",
+    "count": 0,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-2703",
+    "count": 103,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-2701",
+    "count": 1,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-2648",
+    "count": 6,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-2704",
+    "count": 2,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-2705",
+    "count": 1,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-2706",
+    "count": 1,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-2695",
+    "count": 0,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-2722",
+    "count": 5,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-2552",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-2725",
+    "count": 1,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-2729",
+    "count": 0,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-2730",
+    "count": 17,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-2731",
+    "count": 6,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-2638",
+    "count": 3,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-2732",
+    "count": 2,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-2733",
+    "count": 1,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-2727",
+    "count": 23,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-2738",
+    "count": 2,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-2739",
+    "count": 1,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-2740",
+    "count": 3,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-2735",
+    "count": 0,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-2753",
+    "count": 14,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-2754",
+    "count": 0,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-2756",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-2764",
+    "count": 1,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-2761",
+    "count": 27,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-2759",
+    "count": 44,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-2599",
+    "count": 0,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-2773",
+    "count": 0,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-2777",
+    "count": 0,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-2775",
+    "count": 0,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-2780",
+    "count": 9,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-2778",
+    "count": 0,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-2782",
+    "count": 1,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-2776",
+    "count": 4,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-2770",
+    "count": 3,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-2784",
+    "count": 1,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-2785",
+    "count": 3,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-2550",
+    "count": 17,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-2779",
+    "count": 1,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-2792",
+    "count": 7,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-2795",
+    "count": 22,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-2637",
+    "count": 3,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-2791",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-2800",
+    "count": 1,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-2799",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-2802",
+    "count": 3,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-2765",
+    "count": 47,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-2807",
+    "count": 1,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-2809",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-2810",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-2816",
+    "count": 5,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-2822",
+    "count": 1,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-2823",
+    "count": 1,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-2825",
+    "count": 7,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-2828",
+    "count": 5,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-2833",
+    "count": 0,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-2836",
+    "count": 0,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-2838",
+    "count": 1,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-2310",
+    "count": 1,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-2841",
+    "count": 1,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-2845",
+    "count": 7,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-2846",
+    "count": 1,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-2849",
+    "count": 3,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-2858",
+    "count": 1,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-2555",
+    "count": 0,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-2601",
+    "count": 1,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-2840",
+    "count": 0,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-2566",
+    "count": 2,
+    "issue-type": "Sub-task"
+  },
+  {
+    "issue-key": "TIKA-2861",
+    "count": 2,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-2749",
+    "count": 1,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-2863",
+    "count": 0,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-2864",
+    "count": 3,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-2865",
+    "count": 1,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-2866",
+    "count": 1,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-2867",
+    "count": 2,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-2868",
+    "count": 11,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-2871",
+    "count": 40,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-2873",
+    "count": 5,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-2883",
+    "count": 0,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-2876",
+    "count": 4,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-2886",
+    "count": 2,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-2790",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-2893",
+    "count": 1,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-2898",
+    "count": 5,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-2903",
+    "count": 6,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-1568",
+    "count": 29,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-2899",
+    "count": 10,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-2908",
+    "count": 26,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-2905",
+    "count": 0,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-2909",
+    "count": 2,
+    "issue-type": "New Feature"
+  },
+  {
+    "issue-key": "TIKA-2917",
+    "count": 1,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-2922",
+    "count": 6,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-2906",
+    "count": 1,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-2924",
+    "count": 2,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-2926",
+    "count": 3,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-2931",
+    "count": 4,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-2951",
+    "count": 2,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-2950",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-2957",
+    "count": 7,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-2959",
+    "count": 8,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-2955",
+    "count": 36,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-2965",
+    "count": 1,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-2970",
+    "count": 7,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-2969",
+    "count": 5,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-2851",
+    "count": 0,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-2624",
+    "count": 12,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-2934",
+    "count": 37,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-2954",
+    "count": 2,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-2974",
+    "count": 89,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-2976",
+    "count": 0,
+    "issue-type": "New Feature"
+  },
+  {
+    "issue-key": "TIKA-2978",
+    "count": 2,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-2983",
+    "count": 1,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-2984",
+    "count": 5,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-2982",
+    "count": 0,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-2892",
+    "count": 5,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-2988",
+    "count": 1,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-2989",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-2990",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-2979",
+    "count": 2,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-2993",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-2994",
+    "count": 3,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-2996",
+    "count": 4,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-2966",
+    "count": 1,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-2998",
+    "count": 1,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-2999",
+    "count": 1,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-3000",
+    "count": 1,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-3001",
+    "count": 45,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-3002",
+    "count": 7,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-2630",
+    "count": 26,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-2992",
+    "count": 17,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-2546",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-3012",
+    "count": 4,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-3013",
+    "count": 5,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-3015",
+    "count": 5,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-3016",
+    "count": 5,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-3014",
+    "count": 8,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-3020",
+    "count": 6,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-3030",
+    "count": 3,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-3041",
+    "count": 1,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-3026",
+    "count": 2,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-3040",
+    "count": 68,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-3045",
+    "count": 0,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-3050",
+    "count": 0,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-3047",
+    "count": 0,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-3057",
+    "count": 0,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-3055",
+    "count": 4,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-3058",
+    "count": 1,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-3035",
+    "count": 50,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-3042",
+    "count": 1,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-3059",
+    "count": 9,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-3061",
+    "count": 1,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-3062",
+    "count": 0,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-3064",
+    "count": 4,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-3065",
+    "count": 9,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-2714",
+    "count": 25,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-3071",
+    "count": 2,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-3073",
+    "count": 0,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-3078",
+    "count": 2,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-3081",
+    "count": 4,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-3080",
+    "count": 5,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-2572",
+    "count": 0,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-3085",
+    "count": 1,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-3084",
+    "count": 3,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-3090",
+    "count": 1,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-3091",
+    "count": 5,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-3092",
+    "count": 2,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-3094",
+    "count": 1,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-3101",
+    "count": 1,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-3104",
+    "count": 0,
+    "issue-type": "Wish"
+  },
+  {
+    "issue-key": "TIKA-3112",
+    "count": 52,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-3111",
+    "count": 1,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-3110",
+    "count": 7,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-2888",
+    "count": 4,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-3120",
+    "count": 0,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-3122",
+    "count": 3,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-3130",
+    "count": 2,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-3135",
+    "count": 1,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-3134",
+    "count": 6,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-3131",
+    "count": 5,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-3088",
+    "count": 41,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-3139",
+    "count": 1,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-3129",
+    "count": 0,
+    "issue-type": "Wish"
+  },
+  {
+    "issue-key": "TIKA-3137",
+    "count": 2,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-3145",
+    "count": 1,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-3144",
+    "count": 0,
+    "issue-type": "New Feature"
+  },
+  {
+    "issue-key": "TIKA-3147",
+    "count": 0,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-3153",
+    "count": 3,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-3159",
+    "count": 5,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-3161",
+    "count": 0,
+    "issue-type": "New Feature"
+  },
+  {
+    "issue-key": "TIKA-3172",
+    "count": 3,
+    "issue-type": "Wish"
+  },
+  {
+    "issue-key": "TIKA-3185",
+    "count": 2,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-3179",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-3176",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-3190",
+    "count": 0,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-3192",
+    "count": 0,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-3193",
+    "count": 8,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-3141",
+    "count": 8,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-3199",
+    "count": 0,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-3200",
+    "count": 6,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-3189",
+    "count": 1,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-3196",
+    "count": 4,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-3044",
+    "count": 1,
+    "issue-type": "New Feature"
+  },
+  {
+    "issue-key": "TIKA-3207",
+    "count": 9,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-3203",
+    "count": 19,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-3208",
+    "count": 2,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-3210",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-3216",
+    "count": 1,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-3217",
+    "count": 3,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-3009",
+    "count": 6,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-3156",
+    "count": 5,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-3191",
+    "count": 1,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-3227",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-3228",
+    "count": 2,
+    "issue-type": "New Feature"
+  },
+  {
+    "issue-key": "TIKA-3237",
+    "count": 12,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-3004",
+    "count": 2,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-3240",
+    "count": 0,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-3241",
+    "count": 0,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-3218",
+    "count": 9,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-3243",
+    "count": 11,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-3244",
+    "count": 0,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-3248",
+    "count": 3,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-3180",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-3242",
+    "count": 0,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-3247",
+    "count": 2,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-3246",
+    "count": 23,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-3262",
+    "count": 4,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-3260",
+    "count": 2,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-3259",
+    "count": 1,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-3265",
+    "count": 2,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-3268",
+    "count": 1,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-3266",
+    "count": 1,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-3267",
+    "count": 3,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-3273",
+    "count": 1,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-3258",
+    "count": 1,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-3271",
+    "count": 5,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-3226",
+    "count": 9,
+    "issue-type": "New Feature"
+  },
+  {
+    "issue-key": "TIKA-3281",
+    "count": 2,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-3283",
+    "count": 1,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-3285",
+    "count": 1,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-3287",
+    "count": 0,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-3289",
+    "count": 3,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-3288",
+    "count": 3,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-3286",
+    "count": 2,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-3282",
+    "count": 6,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-3292",
+    "count": 0,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-3297",
+    "count": 1,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-3298",
+    "count": 2,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-3293",
+    "count": 1,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-3299",
+    "count": 1,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-3301",
+    "count": 1,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-3255",
+    "count": 16,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-3306",
+    "count": 0,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-3309",
+    "count": 5,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-3316",
+    "count": 28,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-3318",
+    "count": 6,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-3310",
+    "count": 4,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-3324",
+    "count": 1,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-3313",
+    "count": 1,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-3323",
+    "count": 11,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-3325",
+    "count": 1,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-3331",
+    "count": 44,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-3332",
+    "count": 3,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-3334",
+    "count": 3,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-3336",
+    "count": 2,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-3335",
+    "count": 1,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-3304",
+    "count": 0,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-3350",
+    "count": 2,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-3344",
+    "count": 0,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-3345",
+    "count": 1,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-3343",
+    "count": 0,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-3340",
+    "count": 1,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-3351",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-3352",
+    "count": 1,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-3355",
+    "count": 1,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-3359",
+    "count": 3,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-3362",
+    "count": 7,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-3312",
+    "count": 4,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-3370",
+    "count": 4,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-2787",
+    "count": 11,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-3371",
+    "count": 1,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-3377",
+    "count": 1,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-3374",
+    "count": 7,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-3376",
+    "count": 0,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-3378",
+    "count": 0,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-3372",
+    "count": 1,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-3386",
+    "count": 1,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-3382",
+    "count": 1,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-3389",
+    "count": 1,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-3390",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-3391",
+    "count": 3,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-3393",
+    "count": 1,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-3394",
+    "count": 0,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-3395",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-3398",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-3396",
+    "count": 0,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-3392",
+    "count": 22,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-3317",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-3402",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-3401",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-3399",
+    "count": 0,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-3403",
+    "count": 1,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-3384",
+    "count": 0,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-3357",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-3410",
+    "count": 2,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-3270",
+    "count": 5,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-3413",
+    "count": 2,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-3415",
+    "count": 0,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-3414",
+    "count": 0,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-3400",
+    "count": 0,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-3424",
+    "count": 1,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-3432",
+    "count": 4,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-3433",
+    "count": 4,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-3435",
+    "count": 1,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-3437",
+    "count": 4,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-3441",
+    "count": 0,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-3412",
+    "count": 1,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-3449",
+    "count": 3,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-3456",
+    "count": 3,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-3457",
+    "count": 0,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-307",
+    "count": 2,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-3461",
+    "count": 1,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-3465",
+    "count": 1,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-3467",
+    "count": 0,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-3469",
+    "count": 2,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-3470",
+    "count": 2,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-3475",
+    "count": 0,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-3473",
+    "count": 1,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-3474",
+    "count": 0,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-3472",
+    "count": 2,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-3477",
+    "count": 25,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-3478",
+    "count": 3,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-3480",
+    "count": 5,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-3482",
+    "count": 1,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-3484",
+    "count": 6,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-3485",
+    "count": 1,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-3361",
+    "count": 6,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-3490",
+    "count": 1,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-3489",
+    "count": 3,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-3494",
+    "count": 4,
+    "issue-type": "New Feature"
+  },
+  {
+    "issue-key": "TIKA-3496",
+    "count": 2,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-3495",
+    "count": 0,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-3500",
+    "count": 1,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-3501",
+    "count": 1,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-3499",
+    "count": 2,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-3505",
+    "count": 4,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-3507",
+    "count": 2,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-3508",
+    "count": 1,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-3512",
+    "count": 0,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-3517",
+    "count": 1,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-3514",
+    "count": 2,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-3515",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-3520",
+    "count": 1,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-3521",
+    "count": 2,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-3522",
+    "count": 1,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-3523",
+    "count": 11,
+    "issue-type": "Wish"
+  },
+  {
+    "issue-key": "TIKA-3516",
+    "count": 4,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-3518",
+    "count": 2,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-3529",
+    "count": 0,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-3488",
+    "count": 0,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-3541",
+    "count": 2,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-3542",
+    "count": 3,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-3543",
+    "count": 1,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-3550",
+    "count": 0,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-3552",
+    "count": 3,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-3553",
+    "count": 1,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-3551",
+    "count": 14,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-3549",
+    "count": 2,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-3556",
+    "count": 11,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-3562",
+    "count": 1,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-3564",
+    "count": 3,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-3563",
+    "count": 0,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-3547",
+    "count": 0,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-2696",
+    "count": 2,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-3569",
+    "count": 13,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-3572",
+    "count": 0,
+    "issue-type": "Wish"
+  },
+  {
+    "issue-key": "TIKA-3573",
+    "count": 2,
+    "issue-type": "Wish"
+  },
+  {
+    "issue-key": "TIKA-3570",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-3579",
+    "count": 0,
+    "issue-type": "Wish"
+  },
+  {
+    "issue-key": "TIKA-3580",
+    "count": 3,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-3584",
+    "count": 1,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-3583",
+    "count": 3,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-3582",
+    "count": 3,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-3581",
+    "count": 12,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-3586",
+    "count": 0,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-3588",
+    "count": 2,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-3589",
+    "count": 5,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-860",
+    "count": 4,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-3594",
+    "count": 2,
+    "issue-type": "New Feature"
+  },
+  {
+    "issue-key": "TIKA-3595",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-3575",
+    "count": 5,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-3598",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-3596",
+    "count": 5,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-3603",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-3605",
+    "count": 2,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-3526",
+    "count": 9,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-3609",
+    "count": 0,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-3611",
+    "count": 1,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-3446",
+    "count": 3,
+    "issue-type": "New Feature"
+  },
+  {
+    "issue-key": "TIKA-3624",
+    "count": 2,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-3627",
+    "count": 3,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-3639",
+    "count": 17,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-3634",
+    "count": 3,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-3645",
+    "count": 2,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-3644",
+    "count": 1,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-3188",
+    "count": 0,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-3649",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-3653",
+    "count": 3,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-3654",
+    "count": 2,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-3655",
+    "count": 1,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-3662",
+    "count": 0,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-3663",
+    "count": 2,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-3665",
+    "count": 6,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-3672",
+    "count": 2,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-3458",
+    "count": 2,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-3677",
+    "count": 0,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-3679",
+    "count": 3,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-3680",
+    "count": 1,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-3687",
+    "count": 1,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-3691",
+    "count": 2,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-3689",
+    "count": 0,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-3696",
+    "count": 0,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-3694",
+    "count": 2,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-3698",
+    "count": 2,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-3701",
+    "count": 5,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-3695",
+    "count": 1,
+    "issue-type": "New Feature"
+  },
+  {
+    "issue-key": "TIKA-3716",
+    "count": 2,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-3714",
+    "count": 4,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-3715",
+    "count": 0,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-3717",
+    "count": 0,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-3711",
+    "count": 2,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-3723",
+    "count": 4,
+    "issue-type": "New Feature"
+  },
+  {
+    "issue-key": "TIKA-3724",
+    "count": 2,
+    "issue-type": "New Feature"
+  },
+  {
+    "issue-key": "TIKA-3721",
+    "count": 1,
+    "issue-type": "New Feature"
+  },
+  {
+    "issue-key": "TIKA-3719",
+    "count": 1,
+    "issue-type": "Wish"
+  },
+  {
+    "issue-key": "TIKA-3730",
+    "count": 4,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-3733",
+    "count": 5,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-3734",
+    "count": 3,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-3731",
+    "count": 14,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-3741",
+    "count": 2,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-3745",
+    "count": 1,
+    "issue-type": "Wish"
+  },
+  {
+    "issue-key": "TIKA-3748",
+    "count": 5,
+    "issue-type": "Wish"
+  },
+  {
+    "issue-key": "TIKA-3750",
+    "count": 3,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-3751",
+    "count": 0,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-3571",
+    "count": 4,
+    "issue-type": "Wish"
+  },
+  {
+    "issue-key": "TIKA-3754",
+    "count": 2,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-3755",
+    "count": 6,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-3756",
+    "count": 0,
+    "issue-type": "Sub-task"
+  },
+  {
+    "issue-key": "TIKA-3760",
+    "count": 1,
+    "issue-type": "Sub-task"
+  },
+  {
+    "issue-key": "TIKA-3757",
+    "count": 1,
+    "issue-type": "Sub-task"
+  },
+  {
+    "issue-key": "TIKA-3761",
+    "count": 1,
+    "issue-type": "Sub-task"
+  },
+  {
+    "issue-key": "TIKA-3758",
+    "count": 1,
+    "issue-type": "Sub-task"
+  },
+  {
+    "issue-key": "TIKA-3762",
+    "count": 1,
+    "issue-type": "Sub-task"
+  },
+  {
+    "issue-key": "TIKA-3759",
+    "count": 0,
+    "issue-type": "Sub-task"
+  },
+  {
+    "issue-key": "TIKA-1570",
+    "count": 10,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-3763",
+    "count": 2,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-3764",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-3767",
+    "count": 1,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-3766",
+    "count": 1,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-3769",
+    "count": 3,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-3773",
+    "count": 1,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-3771",
+    "count": 5,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-3774",
+    "count": 3,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-3776",
+    "count": 2,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-3775",
+    "count": 2,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-3778",
+    "count": 3,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-3705",
+    "count": 0,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-3781",
+    "count": 1,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-3783",
+    "count": 5,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-3710",
+    "count": 3,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-3782",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-3785",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-3786",
+    "count": 4,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-3784",
+    "count": 6,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-3787",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-3788",
+    "count": 5,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-3789",
+    "count": 2,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-3791",
+    "count": 3,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-3790",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-3779",
+    "count": 4,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-3792",
+    "count": 1,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-3794",
+    "count": 4,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-3796",
+    "count": 4,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-3797",
+    "count": 1,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-3799",
+    "count": 2,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-3804",
+    "count": 1,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-3810",
+    "count": 0,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-3815",
+    "count": 6,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-3819",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-3820",
+    "count": 0,
+    "issue-type": "New Feature"
+  },
+  {
+    "issue-key": "TIKA-3824",
+    "count": 1,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-1484",
+    "count": 1,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-3825",
+    "count": 1,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-3829",
+    "count": 12,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-3827",
+    "count": 1,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-3832",
+    "count": 32,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-3831",
+    "count": 1,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-3833",
+    "count": 20,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-3836",
+    "count": 0,
+    "issue-type": "New Feature"
+  },
+  {
+    "issue-key": "TIKA-3840",
+    "count": 1,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-3839",
+    "count": 18,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-3841",
+    "count": 8,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-3844",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-3845",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-3846",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-3849",
+    "count": 13,
+    "issue-type": "Wish"
+  },
+  {
+    "issue-key": "TIKA-3851",
+    "count": 1,
+    "issue-type": "Wish"
+  },
+  {
+    "issue-key": "TIKA-3852",
+    "count": 1,
+    "issue-type": "Wish"
+  },
+  {
+    "issue-key": "TIKA-3853",
+    "count": 0,
+    "issue-type": "Wish"
+  },
+  {
+    "issue-key": "TIKA-3848",
+    "count": 14,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-3855",
+    "count": 1,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-3863",
+    "count": 1,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-3864",
+    "count": 29,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-3865",
+    "count": 1,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-3870",
+    "count": 1,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-3871",
+    "count": 1,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-1735",
+    "count": 53,
+    "issue-type": "New Feature"
+  },
+  {
+    "issue-key": "TIKA-3876",
+    "count": 1,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-3877",
+    "count": 2,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-3878",
+    "count": 6,
+    "issue-type": "New Feature"
+  },
+  {
+    "issue-key": "TIKA-3874",
+    "count": 0,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-3875",
+    "count": 0,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-3879",
+    "count": 1,
+    "issue-type": "Test"
+  },
+  {
+    "issue-key": "TIKA-3881",
+    "count": 1,
+    "issue-type": "Test"
+  },
+  {
+    "issue-key": "TIKA-3882",
+    "count": 2,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-3884",
+    "count": 1,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-3885",
+    "count": 1,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-3886",
+    "count": 2,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-3889",
+    "count": 3,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-3895",
+    "count": 6,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-3891",
+    "count": 1,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-3902",
+    "count": 2,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-3904",
+    "count": 7,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-3903",
+    "count": 1,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-3915",
+    "count": 0,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-3918",
+    "count": 2,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-3916",
+    "count": 1,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-3873",
+    "count": 1,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-3919",
+    "count": 14,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-3917",
+    "count": 0,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-3928",
+    "count": 4,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-3929",
+    "count": 1,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-3930",
+    "count": 0,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-3931",
+    "count": 1,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-3932",
+    "count": 2,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-3308",
+    "count": 2,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-3938",
+    "count": 0,
+    "issue-type": "New Feature"
+  },
+  {
+    "issue-key": "TIKA-3939",
+    "count": 2,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-3936",
+    "count": 15,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-3943",
+    "count": 3,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-3944",
+    "count": 4,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-3945",
+    "count": 1,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-3946",
+    "count": 1,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-3957",
+    "count": 1,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-3959",
+    "count": 1,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-3962",
+    "count": 7,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-3963",
+    "count": 12,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-3968",
+    "count": 0,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-3972",
+    "count": 6,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-2689",
+    "count": 2,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-3977",
+    "count": 5,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-3976",
+    "count": 3,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-3970",
+    "count": 3,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-3979",
+    "count": 2,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-3986",
+    "count": 2,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-3987",
+    "count": 3,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-3990",
+    "count": 3,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-3960",
+    "count": 1,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-3991",
+    "count": 5,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-4009",
+    "count": 2,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-4011",
+    "count": 2,
+    "issue-type": "New Feature"
+  },
+  {
+    "issue-key": "TIKA-4013",
+    "count": 0,
+    "issue-type": "New Feature"
+  },
+  {
+    "issue-key": "TIKA-4014",
+    "count": 2,
+    "issue-type": "New Feature"
+  },
+  {
+    "issue-key": "TIKA-4016",
+    "count": 1,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-4012",
+    "count": 2,
+    "issue-type": "New Feature"
+  },
+  {
+    "issue-key": "TIKA-4018",
+    "count": 0,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-4025",
+    "count": 0,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-4017",
+    "count": 0,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-4027",
+    "count": 0,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-4032",
+    "count": 1,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-4028",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-4029",
+    "count": 5,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-4030",
+    "count": 0,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-3971",
+    "count": 3,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-4033",
+    "count": 3,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-4034",
+    "count": 2,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-4035",
+    "count": 1,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-4037",
+    "count": 1,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-4046",
+    "count": 0,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-3996",
+    "count": 0,
+    "issue-type": "Sub-task"
+  },
+  {
+    "issue-key": "TIKA-4002",
+    "count": 0,
+    "issue-type": "Sub-task"
+  },
+  {
+    "issue-key": "TIKA-4055",
+    "count": 1,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-4054",
+    "count": 36,
+    "issue-type": "Sub-task"
+  },
+  {
+    "issue-key": "TIKA-4048",
+    "count": 1,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-4063",
+    "count": 2,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-4039",
+    "count": 3,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-4062",
+    "count": 6,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-3941",
+    "count": 0,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-4064",
+    "count": 0,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-4066",
+    "count": 1,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-4043",
+    "count": 3,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-4065",
+    "count": 2,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-4082",
+    "count": 7,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-4091",
+    "count": 9,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-4096",
+    "count": 2,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-4100",
+    "count": 8,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-4103",
+    "count": 1,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-4101",
+    "count": 1,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-4107",
+    "count": 6,
+    "issue-type": "Sub-task"
+  },
+  {
+    "issue-key": "TIKA-4111",
+    "count": 8,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-4114",
+    "count": 2,
+    "issue-type": "Sub-task"
+  },
+  {
+    "issue-key": "TIKA-4116",
+    "count": 7,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-3109",
+    "count": 7,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-4124",
+    "count": 26,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-4126",
+    "count": 14,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-4128",
+    "count": 1,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-3641",
+    "count": 0,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-4129",
+    "count": 5,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-4120",
+    "count": 0,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-4133",
+    "count": 1,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-4138",
+    "count": 0,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-4135",
+    "count": 0,
+    "issue-type": "Wish"
+  },
+  {
+    "issue-key": "TIKA-1599",
+    "count": 2,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-4149",
+    "count": 3,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-4147",
+    "count": 3,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-4132",
+    "count": 3,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-4155",
+    "count": 3,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-4153",
+    "count": 4,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-3948",
+    "count": 0,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-4154",
+    "count": 13,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-4157",
+    "count": 3,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-4166",
+    "count": 0,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-4165",
+    "count": 17,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-4171",
+    "count": 8,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-3347",
+    "count": 2,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-4160",
+    "count": 0,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-4176",
+    "count": 2,
+    "issue-type": "New Feature"
+  },
+  {
+    "issue-key": "TIKA-4119",
+    "count": 1,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-4184",
+    "count": 2,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-4187",
+    "count": 3,
+    "issue-type": "New Feature"
+  },
+  {
+    "issue-key": "TIKA-4190",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-4189",
+    "count": 2,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-4193",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-4188",
+    "count": 1,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-4195",
+    "count": 3,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-4199",
+    "count": 0,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-4198",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-4201",
+    "count": 2,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-4202",
+    "count": 1,
+    "issue-type": "New Feature"
+  },
+  {
+    "issue-key": "TIKA-4203",
+    "count": 0,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-4204",
+    "count": 8,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-4205",
+    "count": 0,
+    "issue-type": "New Feature"
+  },
+  {
+    "issue-key": "TIKA-4213",
+    "count": 0,
+    "issue-type": "New Feature"
+  },
+  {
+    "issue-key": "TIKA-4211",
+    "count": 65,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-4215",
+    "count": 0,
+    "issue-type": "New Feature"
+  },
+  {
+    "issue-key": "TIKA-4216",
+    "count": 2,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-4219",
+    "count": 2,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-4224",
+    "count": 6,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-4223",
+    "count": 5,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-4207",
+    "count": 1,
+    "issue-type": "New Feature"
+  },
+  {
+    "issue-key": "TIKA-4234",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-4236",
+    "count": 3,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-4238",
+    "count": 0,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-4244",
+    "count": 1,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-4248",
+    "count": 2,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-4249",
+    "count": 0,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-4220",
+    "count": 3,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-4221",
+    "count": 43,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-4252",
+    "count": 20,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-4256",
+    "count": 3,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-4257",
+    "count": 5,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-4259",
+    "count": 2,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-4261",
+    "count": 0,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-4268",
+    "count": 1,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-4181",
+    "count": 1,
+    "issue-type": "New Feature"
+  },
+  {
+    "issue-key": "TIKA-4274",
+    "count": 17,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-4278",
+    "count": 4,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-4282",
+    "count": 3,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-4283",
+    "count": 2,
+    "issue-type": "New Feature"
+  },
+  {
+    "issue-key": "TIKA-4287",
+    "count": 1,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-4288",
+    "count": 3,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-4289",
+    "count": 0,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-4293",
+    "count": 1,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-4292",
+    "count": 3,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-4291",
+    "count": 2,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-4294",
+    "count": 1,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-4247",
+    "count": 1,
+    "issue-type": "New Feature"
+  },
+  {
+    "issue-key": "TIKA-4295",
+    "count": 2,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-4296",
+    "count": 3,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-4298",
+    "count": 10,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-4272",
+    "count": 0,
+    "issue-type": "New Feature"
+  },
+  {
+    "issue-key": "TIKA-4299",
+    "count": 1,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-4308",
+    "count": 5,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-4310",
+    "count": 3,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-4311",
+    "count": 4,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-4309",
+    "count": 2,
+    "issue-type": "New Feature"
+  },
+  {
+    "issue-key": "TIKA-4320",
+    "count": 1,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-4322",
+    "count": 1,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-4327",
+    "count": 0,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-4321",
+    "count": 0,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-4315",
+    "count": 2,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-4336",
+    "count": 3,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-4330",
+    "count": 3,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-4338",
+    "count": 2,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-4340",
+    "count": 0,
+    "issue-type": "Sub-task"
+  },
+  {
+    "issue-key": "TIKA-4341",
+    "count": 2,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-4337",
+    "count": 2,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-4345",
+    "count": 3,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-4349",
+    "count": 1,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-4350",
+    "count": 1,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-4352",
+    "count": 1,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-4354",
+    "count": 1,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-4358",
+    "count": 2,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-4360",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-4357",
+    "count": 3,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-4355",
+    "count": 4,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-4361",
+    "count": 1,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-4362",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-2342",
+    "count": 0,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-4363",
+    "count": 26,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-4365",
+    "count": 5,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-4303",
+    "count": 1,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-4382",
+    "count": 1,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-4384",
+    "count": 2,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-4385",
+    "count": 1,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-4381",
+    "count": 0,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-4387",
+    "count": 0,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-4389",
+    "count": 0,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-4393",
+    "count": 0,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-4396",
+    "count": 0,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-4397",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "TIKA-4399",
+    "count": 0,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-4403",
+    "count": 0,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-4401",
+    "count": 0,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-4395",
+    "count": 0,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-4404",
+    "count": 0,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-4391",
+    "count": 0,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-4413",
+    "count": 0,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-4374",
+    "count": 0,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-4418",
+    "count": 0,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-4419",
+    "count": 0,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-4425",
+    "count": 0,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-4410",
+    "count": 0,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-4426",
+    "count": 0,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-4427",
+    "count": 0,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "TIKA-4430",
+    "count": 0,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-4433",
+    "count": 0,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-4434",
+    "count": 0,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-4435",
+    "count": 0,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-4424",
+    "count": 0,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "TIKA-4436",
+    "count": 0,
+    "issue-type": "Improvement"
+  }
+]

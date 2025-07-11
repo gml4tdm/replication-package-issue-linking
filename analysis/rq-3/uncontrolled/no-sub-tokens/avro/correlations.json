@@ -1,0 +1,212 @@
+{
+  "avro-no-sub-tokens-bm25": {
+    "retrieval-precision-top-1": {
+      "p-value": 6.593572767501042e-15,
+      "statistic": 0.2468780779653983
+    },
+    "retrieval-precision-top-5": {
+      "p-value": 5.086535840900199e-12,
+      "statistic": 0.21944886846669184
+    },
+    "retrieval-precision-top-10": {
+      "p-value": 3.357075414136555e-08,
+      "statistic": 0.17631038402155025
+    },
+    "hit-rate-top-5": {
+      "p-value": 5.049504213720769e-12,
+      "statistic": 0.21948104218646883
+    },
+    "hit-rate-top-10": {
+      "p-value": 1.4182955916394095e-09,
+      "statistic": 0.19298094843791194
+    },
+    "retrieval-recall-top-1": {
+      "p-value": 1.008615035209093e-15,
+      "statistic": 0.25404382374902434
+    },
+    "retrieval-recall-top-5": {
+      "p-value": 2.5762398550343945e-16,
+      "statistic": 0.2591155078728039
+    },
+    "retrieval-recall-top-10": {
+      "p-value": 2.1575542885696647e-16,
+      "statistic": 0.25976647273817177
+    },
+    "r-precision": {
+      "p-value": 5.793471407722799e-14,
+      "statistic": 0.23828762191888897
+    },
+    "mrr": {
+      "p-value": 6.692764584117065e-19,
+      "statistic": 0.2800423588008444
+    }
+  },
+  "avro-no-sub-tokens-lsa-1000": {
+    "retrieval-precision-top-1": {
+      "p-value": 1.5739264005564016e-05,
+      "statistic": 0.13829959019959634
+    },
+    "retrieval-precision-top-5": {
+      "p-value": 3.6626777562618145e-05,
+      "statistic": 0.13225982282817333
+    },
+    "retrieval-precision-top-10": {
+      "p-value": 1.6027880279713764e-05,
+      "statistic": 0.1381722881455524
+    },
+    "hit-rate-top-5": {
+      "p-value": 5.51409024499483e-07,
+      "statistic": 0.16011465167176245
+    },
+    "hit-rate-top-10": {
+      "p-value": 8.811593582944606e-10,
+      "statistic": 0.19536297215756135
+    },
+    "retrieval-recall-top-1": {
+      "p-value": 8.691829476445728e-06,
+      "statistic": 0.142399611446753
+    },
+    "retrieval-recall-top-5": {
+      "p-value": 1.5839042759200293e-08,
+      "statistic": 0.18040963890303036
+    },
+    "retrieval-recall-top-10": {
+      "p-value": 4.1783737651614573e-11,
+      "statistic": 0.2099585484084381
+    },
+    "r-precision": {
+      "p-value": 4.524386178023914e-06,
+      "statistic": 0.1467810834143111
+    },
+    "mrr": {
+      "p-value": 2.1537958743330723e-10,
+      "statistic": 0.2022439156813873
+    }
+  },
+  "avro-no-sub-tokens-lsa-500": {
+    "retrieval-precision-top-1": {
+      "p-value": 6.377399535698257e-06,
+      "statistic": 0.14449335032327212
+    },
+    "retrieval-precision-top-5": {
+      "p-value": 1.0986270430897314e-05,
+      "statistic": 0.14079565078496223
+    },
+    "retrieval-precision-top-10": {
+      "p-value": 0.0001691160445264926,
+      "statistic": 0.12060311832740013
+    },
+    "hit-rate-top-5": {
+      "p-value": 3.6839600508924027e-07,
+      "statistic": 0.16254732903516025
+    },
+    "hit-rate-top-10": {
+      "p-value": 8.95117276551113e-08,
+      "statistic": 0.1708096433863335
+    },
+    "retrieval-recall-top-1": {
+      "p-value": 2.9492248273843683e-06,
+      "statistic": 0.1495857085287529
+    },
+    "retrieval-recall-top-5": {
+      "p-value": 5.611952769079308e-09,
+      "statistic": 0.18592144732592392
+    },
+    "retrieval-recall-top-10": {
+      "p-value": 4.448586628904599e-09,
+      "statistic": 0.18713291489826053
+    },
+    "r-precision": {
+      "p-value": 3.0132832765743323e-06,
+      "statistic": 0.14944609627687774
+    },
+    "mrr": {
+      "p-value": 2.4693049145773635e-11,
+      "statistic": 0.21237085020830013
+    }
+  },
+  "avro-no-sub-tokens-rvsm": {
+    "retrieval-precision-top-1": {
+      "p-value": 9.316966237990947e-11,
+      "statistic": 0.20622374471467772
+    },
+    "retrieval-precision-top-5": {
+      "p-value": 1.6007456361092088e-12,
+      "statistic": 0.22447851123982301
+    },
+    "retrieval-precision-top-10": {
+      "p-value": 2.9887999685035756e-09,
+      "statistic": 0.1891885444097013
+    },
+    "hit-rate-top-5": {
+      "p-value": 1.6595406171322632e-13,
+      "statistic": 0.23400403043795176
+    },
+    "hit-rate-top-10": {
+      "p-value": 1.4472502406487461e-11,
+      "statistic": 0.2147919675627084
+    },
+    "retrieval-recall-top-1": {
+      "p-value": 1.7329382455045227e-11,
+      "statistic": 0.21397881019619833
+    },
+    "retrieval-recall-top-5": {
+      "p-value": 1.67211988770949e-15,
+      "statistic": 0.25213658321178206
+    },
+    "retrieval-recall-top-10": {
+      "p-value": 1.3904822236340792e-14,
+      "statistic": 0.24396594834473112
+    },
+    "r-precision": {
+      "p-value": 8.986071442946515e-12,
+      "statistic": 0.21692756217906406
+    },
+    "mrr": {
+      "p-value": 1.0176133047115851e-16,
+      "statistic": 0.2625048396764521
+    }
+  },
+  "avro-no-sub-tokens-tfidf": {
+    "retrieval-precision-top-1": {
+      "p-value": 3.320873934394625e-05,
+      "statistic": 0.1329736614602463
+    },
+    "retrieval-precision-top-5": {
+      "p-value": 4.283798483726397e-06,
+      "statistic": 0.14714207176663655
+    },
+    "retrieval-precision-top-10": {
+      "p-value": 2.8179663529433352e-05,
+      "statistic": 0.1341621644246872
+    },
+    "hit-rate-top-5": {
+      "p-value": 1.3437230705188572e-08,
+      "statistic": 0.18129455939442232
+    },
+    "hit-rate-top-10": {
+      "p-value": 7.769175201971989e-10,
+      "statistic": 0.19598807697766124
+    },
+    "retrieval-recall-top-1": {
+      "p-value": 1.9057798500729473e-05,
+      "statistic": 0.13695363267629618
+    },
+    "retrieval-recall-top-5": {
+      "p-value": 8.554213645722467e-10,
+      "statistic": 0.1955103394138409
+    },
+    "retrieval-recall-top-10": {
+      "p-value": 2.233316009073426e-10,
+      "statistic": 0.2020698829436679
+    },
+    "r-precision": {
+      "p-value": 3.08380039073163e-05,
+      "statistic": 0.13351095213671854
+    },
+    "mrr": {
+      "p-value": 3.492395028836351e-10,
+      "statistic": 0.19991079141006785
+    }
+  }
+}

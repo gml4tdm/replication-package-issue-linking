@@ -1,0 +1,212 @@
+{
+  "spring-data-mongodb-sub-tokens-bm25": {
+    "retrieval-precision-top-1": {
+      "p-value": 0.3406651429781803,
+      "statistic": 0.04367598237956251
+    },
+    "retrieval-precision-top-5": {
+      "p-value": 0.480121825389913,
+      "statistic": 0.032372859107649275
+    },
+    "retrieval-precision-top-10": {
+      "p-value": 0.47034312168989556,
+      "statistic": 0.03309750162419383
+    },
+    "hit-rate-top-5": {
+      "p-value": 0.10317820006819405,
+      "statistic": 0.0746292929722529
+    },
+    "hit-rate-top-10": {
+      "p-value": 0.16658629781888037,
+      "statistic": 0.06337098299360784
+    },
+    "retrieval-recall-top-1": {
+      "p-value": 0.20093013489593414,
+      "statistic": 0.05859895129609698
+    },
+    "retrieval-recall-top-5": {
+      "p-value": 0.08779334535860422,
+      "statistic": 0.0781685770533882
+    },
+    "retrieval-recall-top-10": {
+      "p-value": 0.0520165521639843,
+      "statistic": 0.08892729671341887
+    },
+    "r-precision": {
+      "p-value": 0.4496679429354984,
+      "statistic": 0.03465755739740529
+    },
+    "mrr": {
+      "p-value": 0.11899480298848211,
+      "statistic": 0.0714032139229552
+    }
+  },
+  "spring-data-mongodb-sub-tokens-lsa-1000": {
+    "retrieval-precision-top-1": {
+      "p-value": 0.6363208689029779,
+      "statistic": 0.021681837782050243
+    },
+    "retrieval-precision-top-5": {
+      "p-value": 0.33940693442624326,
+      "statistic": 0.04378981898839683
+    },
+    "retrieval-precision-top-10": {
+      "p-value": 0.4686864763992923,
+      "statistic": 0.03322108199665332
+    },
+    "hit-rate-top-5": {
+      "p-value": 0.08381679048637405,
+      "statistic": 0.07916377381933465
+    },
+    "hit-rate-top-10": {
+      "p-value": 0.1066012493313561,
+      "statistic": 0.07389961744421991
+    },
+    "retrieval-recall-top-1": {
+      "p-value": 0.3860206400541498,
+      "statistic": 0.039737472614596384
+    },
+    "retrieval-recall-top-5": {
+      "p-value": 0.03716061532381583,
+      "statistic": 0.09535209067798316
+    },
+    "retrieval-recall-top-10": {
+      "p-value": 0.01848570709954027,
+      "statistic": 0.10771752534997735
+    },
+    "r-precision": {
+      "p-value": 0.9348364672717759,
+      "statistic": 0.0037494822952958673
+    },
+    "mrr": {
+      "p-value": 0.17035705498357195,
+      "statistic": 0.06281322710942316
+    }
+  },
+  "spring-data-mongodb-sub-tokens-lsa-500": {
+    "retrieval-precision-top-1": {
+      "p-value": 0.40769507792547055,
+      "statistic": 0.037955582185764
+    },
+    "retrieval-precision-top-5": {
+      "p-value": 0.38839073878859576,
+      "statistic": 0.03953972996940983
+    },
+    "retrieval-precision-top-10": {
+      "p-value": 0.4240526306654214,
+      "statistic": 0.036647836851065374
+    },
+    "hit-rate-top-5": {
+      "p-value": 0.1055374537789088,
+      "statistic": 0.07412437134596626
+    },
+    "hit-rate-top-10": {
+      "p-value": 0.09043638727388599,
+      "statistic": 0.0775269971492017
+    },
+    "retrieval-recall-top-1": {
+      "p-value": 0.2237049027612868,
+      "statistic": 0.05575486338738129
+    },
+    "retrieval-recall-top-5": {
+      "p-value": 0.049453501128513745,
+      "statistic": 0.08991482587079275
+    },
+    "retrieval-recall-top-10": {
+      "p-value": 0.013662372456052525,
+      "statistic": 0.11272853848489617
+    },
+    "r-precision": {
+      "p-value": 0.353127165275124,
+      "statistic": 0.04256265311753429
+    },
+    "mrr": {
+      "p-value": 0.09183205529734026,
+      "statistic": 0.07719425785867848
+    }
+  },
+  "spring-data-mongodb-sub-tokens-rvsm": {
+    "retrieval-precision-top-1": {
+      "p-value": 0.0088590829811831,
+      "statistic": 0.1196022685066673
+    },
+    "retrieval-precision-top-5": {
+      "p-value": 0.0011564761179597477,
+      "statistic": 0.14819081923600247
+    },
+    "retrieval-precision-top-10": {
+      "p-value": 0.060485218299164374,
+      "statistic": 0.08592906688780366
+    },
+    "hit-rate-top-5": {
+      "p-value": 1.5517442584540645e-05,
+      "statistic": 0.1962364782794968
+    },
+    "hit-rate-top-10": {
+      "p-value": 0.0026727433274980456,
+      "statistic": 0.13706708973418458
+    },
+    "retrieval-recall-top-1": {
+      "p-value": 0.003092168044077515,
+      "statistic": 0.13504834071344624
+    },
+    "retrieval-recall-top-5": {
+      "p-value": 6.835091291152752e-06,
+      "statistic": 0.2041323387307533
+    },
+    "retrieval-recall-top-10": {
+      "p-value": 0.00019054733506519283,
+      "statistic": 0.1698653955749339
+    },
+    "r-precision": {
+      "p-value": 0.029849328486898828,
+      "statistic": 0.09936299208500513
+    },
+    "mrr": {
+      "p-value": 4.87170673728843e-05,
+      "statistic": 0.18466115725595328
+    }
+  },
+  "spring-data-mongodb-sub-tokens-tfidf": {
+    "retrieval-precision-top-1": {
+      "p-value": 0.3913830575863191,
+      "statistic": 0.039291117440780024
+    },
+    "retrieval-precision-top-5": {
+      "p-value": 0.34125989790461564,
+      "statistic": 0.04362226529626111
+    },
+    "retrieval-precision-top-10": {
+      "p-value": 0.4402966947881706,
+      "statistic": 0.0353779609569094
+    },
+    "hit-rate-top-5": {
+      "p-value": 0.11078838861534548,
+      "statistic": 0.07303181781356775
+    },
+    "hit-rate-top-10": {
+      "p-value": 0.07256831889163408,
+      "statistic": 0.08220210083151457
+    },
+    "retrieval-recall-top-1": {
+      "p-value": 0.18728317434991304,
+      "statistic": 0.06041713066665361
+    },
+    "retrieval-recall-top-5": {
+      "p-value": 0.042092455209791026,
+      "statistic": 0.09301109201591941
+    },
+    "retrieval-recall-top-10": {
+      "p-value": 0.013097613986643823,
+      "statistic": 0.11341363239804597
+    },
+    "r-precision": {
+      "p-value": 0.654933270342865,
+      "statistic": 0.02049312522232537
+    },
+    "mrr": {
+      "p-value": 0.11630120684880177,
+      "statistic": 0.07192778844061282
+    }
+  }
+}

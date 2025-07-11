@@ -1,0 +1,4092 @@
+[
+  {
+    "issue-key": "MNG-6600",
+    "count": 1,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "MNG-6601",
+    "count": 1,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "MNG-6572",
+    "count": 3,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "MNG-6605",
+    "count": 4,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "MNG-6405",
+    "count": 7,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-6642",
+    "count": 4,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-6643",
+    "count": 13,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-6629",
+    "count": 1,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-6630",
+    "count": 1,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-6631",
+    "count": 1,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-6632",
+    "count": 1,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-6636",
+    "count": 24,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-6644",
+    "count": 28,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-6655",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "MNG-6626",
+    "count": 14,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-6633",
+    "count": 2,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-6638",
+    "count": 2,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "MNG-6667",
+    "count": 1,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "MNG-6665",
+    "count": 2,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "MNG-6671",
+    "count": 0,
+    "issue-type": "Dependency upgrade"
+  },
+  {
+    "issue-key": "MNG-6675",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "MNG-6680",
+    "count": 0,
+    "issue-type": "Sub-task"
+  },
+  {
+    "issue-key": "MNG-6686",
+    "count": 0,
+    "issue-type": "Sub-task"
+  },
+  {
+    "issue-key": "MNG-6685",
+    "count": 0,
+    "issue-type": "Sub-task"
+  },
+  {
+    "issue-key": "MNG-6700",
+    "count": 9,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-6698",
+    "count": 1,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "MNG-6703",
+    "count": 3,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-6702",
+    "count": 1,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "MNG-6705",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "MNG-6697",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "MNG-6704",
+    "count": 12,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-6723",
+    "count": 5,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-6653",
+    "count": 34,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-6713",
+    "count": 1,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-6729",
+    "count": 10,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "MNG-6716",
+    "count": 19,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-6695",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "MNG-6747",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "MNG-6760",
+    "count": 4,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-6777",
+    "count": 6,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "MNG-6765",
+    "count": 9,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-6799",
+    "count": 5,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "MNG-6812",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "MNG-6816",
+    "count": 2,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "MNG-6826",
+    "count": 2,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "MNG-6807",
+    "count": 1,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "MNG-6824",
+    "count": 11,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-6827",
+    "count": 4,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "MNG-5982",
+    "count": 8,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-6844",
+    "count": 3,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "MNG-6842",
+    "count": 2,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-6837",
+    "count": 2,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "MNG-5587",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "MNG-6850",
+    "count": 4,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-6853",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "MNG-6831",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "MNG-6855",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "MNG-6917",
+    "count": 0,
+    "issue-type": "New Feature"
+  },
+  {
+    "issue-key": "MNG-6944",
+    "count": 14,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-6946",
+    "count": 2,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-6948",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "MNG-6952",
+    "count": 4,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-6967",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "MNG-6964",
+    "count": 0,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-6977",
+    "count": 1,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "MNG-6991",
+    "count": 12,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-6983",
+    "count": 4,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-6931",
+    "count": 1,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "MNG-7002",
+    "count": 2,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "MNG-6999",
+    "count": 3,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-7019",
+    "count": 0,
+    "issue-type": "Sub-task"
+  },
+  {
+    "issue-key": "MNG-7034",
+    "count": 1,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-6054",
+    "count": 2,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "MNG-7021",
+    "count": 0,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "MNG-7057",
+    "count": 1,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-6888",
+    "count": 0,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "MNG-7060",
+    "count": 0,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "MNG-6909",
+    "count": 0,
+    "issue-type": "Sub-task"
+  },
+  {
+    "issue-key": "MNG-7071",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "MNG-7035",
+    "count": 0,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "MNG-7077",
+    "count": 1,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "MNG-7063",
+    "count": 7,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-7107",
+    "count": 3,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-6471",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "MNG-7111",
+    "count": 55,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "MNG-7116",
+    "count": 0,
+    "issue-type": "New Feature"
+  },
+  {
+    "issue-key": "MNG-7117",
+    "count": 3,
+    "issue-type": "New Feature"
+  },
+  {
+    "issue-key": "MNG-7102",
+    "count": 1,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-7127",
+    "count": 9,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-7090",
+    "count": 2,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-7149",
+    "count": 2,
+    "issue-type": "New Feature"
+  },
+  {
+    "issue-key": "MNG-6294",
+    "count": 3,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "MNG-6915",
+    "count": 1,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "MNG-7080",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "MNG-7032",
+    "count": 0,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-7151",
+    "count": 0,
+    "issue-type": "Dependency upgrade"
+  },
+  {
+    "issue-key": "MNG-6802",
+    "count": 8,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-7172",
+    "count": 8,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "MNG-6843",
+    "count": 33,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-7180",
+    "count": 5,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "MNG-7181",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "MNG-7185",
+    "count": 5,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "MNG-7131",
+    "count": 7,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-7192",
+    "count": 6,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "MNG-6648",
+    "count": 4,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-7010",
+    "count": 1,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "MNG-7197",
+    "count": 0,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "MNG-7195",
+    "count": 3,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "MNG-7199",
+    "count": 4,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-7203",
+    "count": 1,
+    "issue-type": "New Feature"
+  },
+  {
+    "issue-key": "MNG-7209",
+    "count": 1,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "MNG-7208",
+    "count": 0,
+    "issue-type": "New Feature"
+  },
+  {
+    "issue-key": "MNG-7226",
+    "count": 3,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-7251",
+    "count": 1,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-7236",
+    "count": 1,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "MNG-7254",
+    "count": 0,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "MNG-7253",
+    "count": 5,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-7210",
+    "count": 0,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "MNG-7248",
+    "count": 4,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "MNG-7164",
+    "count": 1,
+    "issue-type": "New Feature"
+  },
+  {
+    "issue-key": "MNG-7265",
+    "count": 0,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "MNG-7264",
+    "count": 0,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "MNG-7235",
+    "count": 2,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "MNG-7271",
+    "count": 0,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "MNG-7275",
+    "count": 3,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "MNG-7277",
+    "count": 4,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "MNG-7272",
+    "count": 0,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "MNG-7055",
+    "count": 20,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-6898",
+    "count": 6,
+    "issue-type": "Sub-task"
+  },
+  {
+    "issue-key": "MNG-7278",
+    "count": 3,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "MNG-7103",
+    "count": 2,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "MNG-7279",
+    "count": 11,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "MNG-7295",
+    "count": 0,
+    "issue-type": "Sub-task"
+  },
+  {
+    "issue-key": "MNG-7296",
+    "count": 0,
+    "issue-type": "Sub-task"
+  },
+  {
+    "issue-key": "MNG-7293",
+    "count": 4,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "MNG-7292",
+    "count": 0,
+    "issue-type": "Sub-task"
+  },
+  {
+    "issue-key": "MNG-7288",
+    "count": 0,
+    "issue-type": "Sub-task"
+  },
+  {
+    "issue-key": "MNG-7290",
+    "count": 1,
+    "issue-type": "Sub-task"
+  },
+  {
+    "issue-key": "MNG-7291",
+    "count": 2,
+    "issue-type": "Sub-task"
+  },
+  {
+    "issue-key": "MNG-7287",
+    "count": 0,
+    "issue-type": "Sub-task"
+  },
+  {
+    "issue-key": "MNG-7297",
+    "count": 0,
+    "issue-type": "Sub-task"
+  },
+  {
+    "issue-key": "MNG-6389",
+    "count": 1,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "MNG-7303",
+    "count": 0,
+    "issue-type": "Sub-task"
+  },
+  {
+    "issue-key": "MNG-7298",
+    "count": 0,
+    "issue-type": "Sub-task"
+  },
+  {
+    "issue-key": "MNG-7314",
+    "count": 1,
+    "issue-type": "Sub-task"
+  },
+  {
+    "issue-key": "MNG-7312",
+    "count": 1,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "MNG-7340",
+    "count": 0,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-7182",
+    "count": 2,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "MNG-7156",
+    "count": 1,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-7285",
+    "count": 2,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-7193",
+    "count": 3,
+    "issue-type": "New Feature"
+  },
+  {
+    "issue-key": "MNG-7374",
+    "count": 3,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-7263",
+    "count": 0,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "MNG-7267",
+    "count": 1,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "MNG-7347",
+    "count": 1,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-7362",
+    "count": 16,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-7380",
+    "count": 2,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "MNG-7381",
+    "count": 5,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "MNG-7385",
+    "count": 2,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "MNG-7386",
+    "count": 7,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-6727",
+    "count": 8,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-7400",
+    "count": 7,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "MNG-6776",
+    "count": 5,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-7406",
+    "count": 2,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "MNG-7407",
+    "count": 1,
+    "issue-type": "New Feature"
+  },
+  {
+    "issue-key": "MNG-7417",
+    "count": 20,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-7402",
+    "count": 4,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-6960",
+    "count": 1,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "MNG-7304",
+    "count": 0,
+    "issue-type": "Sub-task"
+  },
+  {
+    "issue-key": "MNG-7299",
+    "count": 0,
+    "issue-type": "Sub-task"
+  },
+  {
+    "issue-key": "MNG-7206",
+    "count": 1,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "MNG-7391",
+    "count": 1,
+    "issue-type": "New Feature"
+  },
+  {
+    "issue-key": "MNG-7350",
+    "count": 3,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "MNG-7445",
+    "count": 1,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "MNG-7447",
+    "count": 0,
+    "issue-type": "Sub-task"
+  },
+  {
+    "issue-key": "MNG-7432",
+    "count": 2,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-7454",
+    "count": 1,
+    "issue-type": "New Feature"
+  },
+  {
+    "issue-key": "MNG-7438",
+    "count": 7,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "MNG-7459",
+    "count": 1,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-7478",
+    "count": 3,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "MNG-7486",
+    "count": 0,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "MNG-7476",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "MNG-7501",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "MNG-7511",
+    "count": 23,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-7513",
+    "count": 1,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "MNG-7401",
+    "count": 5,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "MNG-7463",
+    "count": 1,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "MNG-7098",
+    "count": 1,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "MNG-7553",
+    "count": 0,
+    "issue-type": "New Feature"
+  },
+  {
+    "issue-key": "MNG-7547",
+    "count": 1,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "MNG-7106",
+    "count": 9,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-7570",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "MNG-7582",
+    "count": 1,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "MNG-7584",
+    "count": 27,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "MNG-7564",
+    "count": 6,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-7556",
+    "count": 1,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "MNG-7561",
+    "count": 3,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "MNG-7583",
+    "count": 1,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "MNG-7590",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "MNG-7586",
+    "count": 0,
+    "issue-type": "Dependency upgrade"
+  },
+  {
+    "issue-key": "MNG-7597",
+    "count": 1,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-7576",
+    "count": 2,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "MNG-7580",
+    "count": 0,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "MNG-7600",
+    "count": 2,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-7601",
+    "count": 0,
+    "issue-type": "Dependency upgrade"
+  },
+  {
+    "issue-key": "MNG-7611",
+    "count": 6,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "MNG-7596",
+    "count": 0,
+    "issue-type": "Dependency upgrade"
+  },
+  {
+    "issue-key": "MNG-7617",
+    "count": 0,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "MNG-7612",
+    "count": 3,
+    "issue-type": "New Feature"
+  },
+  {
+    "issue-key": "MNG-7619",
+    "count": 1,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "MNG-7578",
+    "count": 8,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-7505",
+    "count": 2,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "MNG-7598",
+    "count": 3,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "MNG-7624",
+    "count": 2,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-7621",
+    "count": 19,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-7637",
+    "count": 6,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-7636",
+    "count": 1,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "MNG-7645",
+    "count": 10,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "MNG-7644",
+    "count": 3,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-7352",
+    "count": 2,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-7650",
+    "count": 0,
+    "issue-type": "Dependency upgrade"
+  },
+  {
+    "issue-key": "MNG-7648",
+    "count": 4,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-7651",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "MNG-7571",
+    "count": 0,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "MNG-7658",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "MNG-7660",
+    "count": 2,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "MNG-7652",
+    "count": 0,
+    "issue-type": "Sub-task"
+  },
+  {
+    "issue-key": "MNG-7642",
+    "count": 46,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-7666",
+    "count": 3,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "MNG-7622",
+    "count": 1,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "MNG-7672",
+    "count": 0,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-7673",
+    "count": 1,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-7544",
+    "count": 30,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-7686",
+    "count": 1,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "MNG-7689",
+    "count": 8,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-7702",
+    "count": 0,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "MNG-7713",
+    "count": 0,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "MNG-7700",
+    "count": 2,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-7683",
+    "count": 17,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-7717",
+    "count": 4,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-7715",
+    "count": 0,
+    "issue-type": "Dependency upgrade"
+  },
+  {
+    "issue-key": "MNG-7720",
+    "count": 1,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-7709",
+    "count": 9,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-7727",
+    "count": 3,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-7724",
+    "count": 2,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "MNG-7678",
+    "count": 6,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-7725",
+    "count": 1,
+    "issue-type": "Dependency upgrade"
+  },
+  {
+    "issue-key": "MNG-6825",
+    "count": 3,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "MNG-7738",
+    "count": 2,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-7756",
+    "count": 0,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-7750",
+    "count": 3,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-7741",
+    "count": 12,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "MNG-7451",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "MNG-7766",
+    "count": 2,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "MNG-7707",
+    "count": 2,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-6303",
+    "count": 1,
+    "issue-type": "New Feature"
+  },
+  {
+    "issue-key": "MNG-7778",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "MNG-7785",
+    "count": 1,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "MNG-7743",
+    "count": 29,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "MNG-7783",
+    "count": 0,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-7784",
+    "count": 5,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-7786",
+    "count": 0,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-7787",
+    "count": 1,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "MNG-7780",
+    "count": 4,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-7789",
+    "count": 1,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "MNG-7791",
+    "count": 0,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "MNG-7796",
+    "count": 2,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-7797",
+    "count": 0,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "MNG-7799",
+    "count": 0,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-7795",
+    "count": 42,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-7585",
+    "count": 4,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "MNG-7698",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "MNG-7655",
+    "count": 2,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "MNG-7604",
+    "count": 1,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-7548",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "MNG-7790",
+    "count": 0,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "MNG-7751",
+    "count": 2,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "MNG-7806",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "MNG-7809",
+    "count": 2,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "MNG-7794",
+    "count": 3,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "MNG-7811",
+    "count": 3,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-7764",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "MNG-7814",
+    "count": 0,
+    "issue-type": "New Feature"
+  },
+  {
+    "issue-key": "MNG-7805",
+    "count": 1,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "MNG-7632",
+    "count": 1,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-7714",
+    "count": 0,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-7823",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "MNG-7834",
+    "count": 27,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-7846",
+    "count": 6,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-7822",
+    "count": 0,
+    "issue-type": "New Feature"
+  },
+  {
+    "issue-key": "MNG-7851",
+    "count": 3,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-7843",
+    "count": 0,
+    "issue-type": "New Feature"
+  },
+  {
+    "issue-key": "MNG-7871",
+    "count": 0,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-7856",
+    "count": 0,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "MNG-7874",
+    "count": 0,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "MNG-7875",
+    "count": 4,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "MNG-7820",
+    "count": 0,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "MNG-7881",
+    "count": 1,
+    "issue-type": "New Feature"
+  },
+  {
+    "issue-key": "MNG-7866",
+    "count": 8,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "MNG-7879",
+    "count": 2,
+    "issue-type": "New Feature"
+  },
+  {
+    "issue-key": "MNG-7893",
+    "count": 0,
+    "issue-type": "New Feature"
+  },
+  {
+    "issue-key": "MNG-7880",
+    "count": 0,
+    "issue-type": "New Feature"
+  },
+  {
+    "issue-key": "MNG-7899",
+    "count": 7,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "MNG-7901",
+    "count": 3,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-7911",
+    "count": 0,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-7910",
+    "count": 3,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-6437",
+    "count": 6,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "MNG-7915",
+    "count": 2,
+    "issue-type": "Sub-task"
+  },
+  {
+    "issue-key": "MNG-7904",
+    "count": 6,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "MNG-7615",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "MNG-7662",
+    "count": 24,
+    "issue-type": "New Feature"
+  },
+  {
+    "issue-key": "MNG-7940",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "MNG-7653",
+    "count": 1,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "MNG-7924",
+    "count": 3,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "MNG-6036",
+    "count": 8,
+    "issue-type": "New Feature"
+  },
+  {
+    "issue-key": "MNG-7919",
+    "count": 3,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "MNG-7945",
+    "count": 1,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-7947",
+    "count": 8,
+    "issue-type": "New Feature"
+  },
+  {
+    "issue-key": "MNG-7920",
+    "count": 8,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-7953",
+    "count": 0,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "MNG-7963",
+    "count": 0,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "MNG-7962",
+    "count": 2,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "MNG-7966",
+    "count": 1,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "MNG-7970",
+    "count": 1,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-7971",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "MNG-7968",
+    "count": 1,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "MNG-7972",
+    "count": 2,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "MNG-7959",
+    "count": 0,
+    "issue-type": "New Feature"
+  },
+  {
+    "issue-key": "MNG-7974",
+    "count": 0,
+    "issue-type": "Dependency upgrade"
+  },
+  {
+    "issue-key": "MNG-7969",
+    "count": 1,
+    "issue-type": "New Feature"
+  },
+  {
+    "issue-key": "MNG-7981",
+    "count": 27,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-7978",
+    "count": 0,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "MNG-7980",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "MNG-7985",
+    "count": 1,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "MNG-7989",
+    "count": 5,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "MNG-7992",
+    "count": 3,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-7995",
+    "count": 1,
+    "issue-type": "New Feature"
+  },
+  {
+    "issue-key": "MNG-7983",
+    "count": 1,
+    "issue-type": "Dependency upgrade"
+  },
+  {
+    "issue-key": "MNG-7996",
+    "count": 0,
+    "issue-type": "New Feature"
+  },
+  {
+    "issue-key": "MNG-7998",
+    "count": 0,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "MNG-8001",
+    "count": 3,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "MNG-7999",
+    "count": 2,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "MNG-7994",
+    "count": 1,
+    "issue-type": "Dependency upgrade"
+  },
+  {
+    "issue-key": "MNG-8000",
+    "count": 1,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "MNG-7982",
+    "count": 2,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "MNG-8007",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "MNG-7960",
+    "count": 3,
+    "issue-type": "New Feature"
+  },
+  {
+    "issue-key": "MNG-8016",
+    "count": 2,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "MNG-8014",
+    "count": 0,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-8006",
+    "count": 0,
+    "issue-type": "Sub-task"
+  },
+  {
+    "issue-key": "MNG-8021",
+    "count": 0,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-8023",
+    "count": 1,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "MNG-8026",
+    "count": 0,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "MNG-8035",
+    "count": 1,
+    "issue-type": "Dependency upgrade"
+  },
+  {
+    "issue-key": "MNG-8037",
+    "count": 3,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "MNG-7854",
+    "count": 1,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "MNG-7954",
+    "count": 3,
+    "issue-type": "Sub-task"
+  },
+  {
+    "issue-key": "MNG-8043",
+    "count": 0,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "MNG-8045",
+    "count": 4,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "MNG-8053",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "MNG-8039",
+    "count": 14,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-8054",
+    "count": 0,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "MNG-8029",
+    "count": 2,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "MNG-8059",
+    "count": 2,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "MNG-7976",
+    "count": 0,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "MNG-5726",
+    "count": 7,
+    "issue-type": "New Feature"
+  },
+  {
+    "issue-key": "MNG-8024",
+    "count": 15,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-8015",
+    "count": 2,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "MNG-8012",
+    "count": 1,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "MNG-8075",
+    "count": 1,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "MNG-8084",
+    "count": 1,
+    "issue-type": "Sub-task"
+  },
+  {
+    "issue-key": "MNG-8088",
+    "count": 1,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "MNG-8089",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "MNG-8091",
+    "count": 0,
+    "issue-type": "Dependency upgrade"
+  },
+  {
+    "issue-key": "MNG-8082",
+    "count": 3,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-8025",
+    "count": 3,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-8107",
+    "count": 0,
+    "issue-type": "Dependency upgrade"
+  },
+  {
+    "issue-key": "MNG-8081",
+    "count": 2,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "MNG-8117",
+    "count": 4,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "MNG-8118",
+    "count": 2,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-8108",
+    "count": 4,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-8119",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "MNG-8050",
+    "count": 2,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "MNG-7902",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "MNG-8136",
+    "count": 0,
+    "issue-type": "Dependency upgrade"
+  },
+  {
+    "issue-key": "MNG-8066",
+    "count": 22,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-8142",
+    "count": 1,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-8140",
+    "count": 1,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "MNG-8141",
+    "count": 5,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "MNG-8151",
+    "count": 2,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "MNG-8152",
+    "count": 2,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "MNG-8134",
+    "count": 1,
+    "issue-type": "New Feature"
+  },
+  {
+    "issue-key": "MNG-8150",
+    "count": 3,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "MNG-8160",
+    "count": 0,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-8164",
+    "count": 1,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-7194",
+    "count": 3,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-8155",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "MNG-8179",
+    "count": 0,
+    "issue-type": "Dependency upgrade"
+  },
+  {
+    "issue-key": "MNG-8178",
+    "count": 23,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-8180",
+    "count": 3,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-8182",
+    "count": 6,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-8192",
+    "count": 12,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-8197",
+    "count": 3,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "MNG-8132",
+    "count": 12,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-8177",
+    "count": 9,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-8176",
+    "count": 0,
+    "issue-type": "New Feature"
+  },
+  {
+    "issue-key": "MNG-7344",
+    "count": 3,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "MNG-8196",
+    "count": 5,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "MNG-8172",
+    "count": 1,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-8215",
+    "count": 0,
+    "issue-type": "New Feature"
+  },
+  {
+    "issue-key": "MNG-8211",
+    "count": 1,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-7914",
+    "count": 1,
+    "issue-type": "New Feature"
+  },
+  {
+    "issue-key": "MNG-8228",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "MNG-8218",
+    "count": 3,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-8210",
+    "count": 2,
+    "issue-type": "New Feature"
+  },
+  {
+    "issue-key": "MNG-8229",
+    "count": 43,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-8090",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "MNG-8249",
+    "count": 0,
+    "issue-type": "New Feature"
+  },
+  {
+    "issue-key": "MNG-8237",
+    "count": 0,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-8232",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "MNG-8235",
+    "count": 0,
+    "issue-type": "Sub-task"
+  },
+  {
+    "issue-key": "MNG-8256",
+    "count": 2,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-8239",
+    "count": 1,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-8260",
+    "count": 0,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-8242",
+    "count": 0,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "MNG-8233",
+    "count": 4,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-8263",
+    "count": 1,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "MNG-8120",
+    "count": 9,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "MNG-8261",
+    "count": 0,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-8264",
+    "count": 0,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "MNG-8279",
+    "count": 2,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "MNG-8283",
+    "count": 10,
+    "issue-type": "New Feature"
+  },
+  {
+    "issue-key": "MNG-5910",
+    "count": 2,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "MNG-8305",
+    "count": 7,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-8285",
+    "count": 0,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "MNG-8309",
+    "count": 1,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "MNG-8296",
+    "count": 31,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-8041",
+    "count": 6,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-8311",
+    "count": 3,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-8302",
+    "count": 2,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-8315",
+    "count": 4,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-8306",
+    "count": 6,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-8312",
+    "count": 1,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "MNG-8326",
+    "count": 1,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-8325",
+    "count": 2,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-8327",
+    "count": 0,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-8310",
+    "count": 1,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "MNG-8335",
+    "count": 0,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-8334",
+    "count": 1,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-8342",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "MNG-8348",
+    "count": 1,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-8330",
+    "count": 3,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "MNG-8344",
+    "count": 2,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-8358",
+    "count": 1,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "MNG-8328",
+    "count": 1,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-8339",
+    "count": 8,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-8349",
+    "count": 48,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-8189",
+    "count": 2,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "MNG-8361",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "MNG-8300",
+    "count": 0,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-8346",
+    "count": 0,
+    "issue-type": "Sub-task"
+  },
+  {
+    "issue-key": "MNG-8329",
+    "count": 5,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "MNG-2201",
+    "count": 4,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-2987",
+    "count": 2,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-3038",
+    "count": 4,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-3023",
+    "count": 3,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-2771",
+    "count": 0,
+    "issue-type": "New Feature"
+  },
+  {
+    "issue-key": "MNG-3396",
+    "count": 3,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-3426",
+    "count": 2,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-3428",
+    "count": 0,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-2123",
+    "count": 26,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-3435",
+    "count": 1,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-3341",
+    "count": 3,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-3394",
+    "count": 1,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-3415",
+    "count": 0,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-3284",
+    "count": 0,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-2744",
+    "count": 4,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-2792",
+    "count": 2,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-3485",
+    "count": 0,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-3221",
+    "count": 15,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-3268",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "MNG-3571",
+    "count": 1,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "MNG-3530",
+    "count": 2,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-3475",
+    "count": 6,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-3535",
+    "count": 2,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-3536",
+    "count": 4,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-3052",
+    "count": 0,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-3684",
+    "count": 0,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-3693",
+    "count": 2,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-3694",
+    "count": 25,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-3703",
+    "count": 2,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-3704",
+    "count": 32,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-3705",
+    "count": 2,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-3710",
+    "count": 3,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-3716",
+    "count": 15,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-3723",
+    "count": 0,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-3724",
+    "count": 2,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-3729",
+    "count": 18,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-3740",
+    "count": 9,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-3741",
+    "count": 1,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-3743",
+    "count": 2,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-3746",
+    "count": 2,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-3747",
+    "count": 2,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-2892",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "MNG-3271",
+    "count": 7,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-3805",
+    "count": 2,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-3818",
+    "count": 6,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "MNG-3848",
+    "count": 1,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-3852",
+    "count": 3,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-3866",
+    "count": 3,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-3873",
+    "count": 0,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-3892",
+    "count": 4,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-3139",
+    "count": 2,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-848",
+    "count": 0,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-866",
+    "count": 1,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-3890",
+    "count": 0,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-3625",
+    "count": 1,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-1830",
+    "count": 2,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "MNG-3662",
+    "count": 0,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-3948",
+    "count": 1,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-3953",
+    "count": 0,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-3970",
+    "count": 1,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-3461",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "MNG-2865",
+    "count": 3,
+    "issue-type": "New Feature"
+  },
+  {
+    "issue-key": "MNG-1992",
+    "count": 0,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-3600",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "MNG-4016",
+    "count": 4,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-4023",
+    "count": 1,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-3379",
+    "count": 2,
+    "issue-type": "New Feature"
+  },
+  {
+    "issue-key": "MNG-3422",
+    "count": 35,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-4026",
+    "count": 5,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-3217",
+    "count": 0,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-3057",
+    "count": 2,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-3701",
+    "count": 16,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-2362",
+    "count": 1,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-4060",
+    "count": 1,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "MNG-4069",
+    "count": 0,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "MNG-2432",
+    "count": 2,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-4084",
+    "count": 2,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-4086",
+    "count": 3,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-4091",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "MNG-4126",
+    "count": 0,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-4150",
+    "count": 2,
+    "issue-type": "Test"
+  },
+  {
+    "issue-key": "MNG-4167",
+    "count": 0,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-4169",
+    "count": 1,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "MNG-3203",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "MNG-4205",
+    "count": 0,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "MNG-4206",
+    "count": 0,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "MNG-4207",
+    "count": 44,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-4189",
+    "count": 7,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-4235",
+    "count": 0,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-3506",
+    "count": 2,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-4254",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "MNG-3941",
+    "count": 2,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-2140",
+    "count": 0,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-4270",
+    "count": 2,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-4276",
+    "count": 1,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-4279",
+    "count": 4,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "MNG-2693",
+    "count": 18,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-3872",
+    "count": 1,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-4292",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "MNG-4347",
+    "count": 2,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-4148",
+    "count": 13,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "MNG-4357",
+    "count": 3,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-4365",
+    "count": 52,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-4387",
+    "count": 0,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-4319",
+    "count": 0,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-4403",
+    "count": 1,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "MNG-4411",
+    "count": 0,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-3607",
+    "count": 2,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-4422",
+    "count": 1,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-4448",
+    "count": 0,
+    "issue-type": "Sub-task"
+  },
+  {
+    "issue-key": "MNG-4471",
+    "count": 1,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-4479",
+    "count": 0,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-2135",
+    "count": 1,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-4572",
+    "count": 8,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-2486",
+    "count": 1,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-3297",
+    "count": 1,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-3208",
+    "count": 0,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-3122",
+    "count": 10,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-3766",
+    "count": 2,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-2305",
+    "count": 1,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-4644",
+    "count": 4,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-4654",
+    "count": 2,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-4720",
+    "count": 3,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "MNG-4721",
+    "count": 0,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "MNG-4745",
+    "count": 1,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-4233",
+    "count": 10,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-4764",
+    "count": 0,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-4768",
+    "count": 0,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-2686",
+    "count": 1,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-4769",
+    "count": 9,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-4690",
+    "count": 0,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-4781",
+    "count": 1,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-4800",
+    "count": 0,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-4309",
+    "count": 10,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-4872",
+    "count": 6,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-4890",
+    "count": 2,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-3775",
+    "count": 0,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-1142",
+    "count": 1,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-2738",
+    "count": 0,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-5011",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "MNG-5012",
+    "count": 3,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "MNG-5013",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "MNG-4997",
+    "count": 1,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-5006",
+    "count": 1,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-5382",
+    "count": 0,
+    "issue-type": "New Feature"
+  },
+  {
+    "issue-key": "MNG-5407",
+    "count": 3,
+    "issue-type": "New Feature"
+  },
+  {
+    "issue-key": "MNG-5640",
+    "count": 4,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-6155",
+    "count": 78,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-5895",
+    "count": 5,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-6057",
+    "count": 16,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-6200",
+    "count": 3,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-6202",
+    "count": 2,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-6229",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "MNG-6426",
+    "count": 4,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-6428",
+    "count": 4,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-6513",
+    "count": 1,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "MNG-6265",
+    "count": 4,
+    "issue-type": "New Feature"
+  },
+  {
+    "issue-key": "MNG-6522",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "MNG-6613",
+    "count": 2,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-6731",
+    "count": 10,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-6938",
+    "count": 3,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-6939",
+    "count": 5,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-6951",
+    "count": 5,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-6974",
+    "count": 6,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-6985",
+    "count": 3,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-7115",
+    "count": 27,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-7056",
+    "count": 35,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "MNG-7230",
+    "count": 0,
+    "issue-type": "Sub-task"
+  },
+  {
+    "issue-key": "MNG-7231",
+    "count": 0,
+    "issue-type": "Sub-task"
+  },
+  {
+    "issue-key": "MNG-4463",
+    "count": 3,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "MNG-7335",
+    "count": 33,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-7470",
+    "count": 2,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "MNG-7504",
+    "count": 2,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-7517",
+    "count": 22,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-7537",
+    "count": 0,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "MNG-7549",
+    "count": 2,
+    "issue-type": "Dependency upgrade"
+  },
+  {
+    "issue-key": "MNG-7606",
+    "count": 6,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-7640",
+    "count": 44,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "MNG-7661",
+    "count": 25,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "MNG-7665",
+    "count": 2,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "MNG-7667",
+    "count": 2,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-7737",
+    "count": 0,
+    "issue-type": "Test"
+  },
+  {
+    "issue-key": "MNG-7819",
+    "count": 1,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-7837",
+    "count": 4,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-7967",
+    "count": 0,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-8133",
+    "count": 48,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-8267",
+    "count": 4,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "MNG-8282",
+    "count": 1,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "MNG-2196",
+    "count": 34,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-8368",
+    "count": 1,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-8362",
+    "count": 1,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-8332",
+    "count": 1,
+    "issue-type": "Sub-task"
+  },
+  {
+    "issue-key": "MNG-8375",
+    "count": 1,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "MNG-8372",
+    "count": 3,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-8340",
+    "count": 4,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-8336",
+    "count": 48,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-8379",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "MNG-8376",
+    "count": 0,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-8383",
+    "count": 0,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-8384",
+    "count": 0,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-8385",
+    "count": 1,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "MNG-8286",
+    "count": 10,
+    "issue-type": "Sub-task"
+  },
+  {
+    "issue-key": "MNG-8386",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "MNG-8394",
+    "count": 1,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "MNG-8389",
+    "count": 34,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-8391",
+    "count": 0,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-8396",
+    "count": 43,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-8400",
+    "count": 1,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-8402",
+    "count": 0,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-8403",
+    "count": 2,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "MNG-8405",
+    "count": 1,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-8404",
+    "count": 2,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "MNG-8388",
+    "count": 1,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-8407",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "MNG-8415",
+    "count": 1,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "MNG-8410",
+    "count": 0,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-8412",
+    "count": 0,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-8411",
+    "count": 0,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-8416",
+    "count": 1,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-8393",
+    "count": 0,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-8421",
+    "count": 1,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-5729",
+    "count": 20,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "MNG-8423",
+    "count": 2,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-8406",
+    "count": 1,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "MNG-8419",
+    "count": 17,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "MNG-8424",
+    "count": 4,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-8430",
+    "count": 0,
+    "issue-type": "Dependency upgrade"
+  },
+  {
+    "issue-key": "MNG-8244",
+    "count": 2,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-8246",
+    "count": 0,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-8245",
+    "count": 0,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-8414",
+    "count": 0,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-8437",
+    "count": 0,
+    "issue-type": "New Feature"
+  },
+  {
+    "issue-key": "MNG-8438",
+    "count": 0,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "MNG-8433",
+    "count": 0,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "MNG-8436",
+    "count": 2,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-8446",
+    "count": 1,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "MNG-8447",
+    "count": 1,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "MNG-8454",
+    "count": 6,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-8460",
+    "count": 1,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-8463",
+    "count": 9,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "MNG-8461",
+    "count": 2,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-8465",
+    "count": 2,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "MNG-8469",
+    "count": 3,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-8487",
+    "count": 20,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-8479",
+    "count": 26,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-8502",
+    "count": 1,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "MNG-8475",
+    "count": 1,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "MNG-8473",
+    "count": 7,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "MNG-8494",
+    "count": 0,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "MNG-8482",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "MNG-8483",
+    "count": 1,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-8493",
+    "count": 1,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "MNG-8513",
+    "count": 1,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "MNG-8514",
+    "count": 2,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "MNG-8510",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "MNG-8515",
+    "count": 1,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "MNG-8484",
+    "count": 1,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-8478",
+    "count": 43,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-8522",
+    "count": 1,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "MNG-8512",
+    "count": 2,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-8520",
+    "count": 4,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-8508",
+    "count": 0,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-8524",
+    "count": 1,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "MNG-8395",
+    "count": 1,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "MNG-8503",
+    "count": 3,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "MNG-8477",
+    "count": 3,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-8527",
+    "count": 0,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "MNG-8544",
+    "count": 2,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-8545",
+    "count": 3,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-8523",
+    "count": 1,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-8519",
+    "count": 0,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-8541",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "MNG-8550",
+    "count": 1,
+    "issue-type": "Dependency upgrade"
+  },
+  {
+    "issue-key": "MNG-8551",
+    "count": 2,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "MNG-8554",
+    "count": 2,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-8241",
+    "count": 3,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-7592",
+    "count": 4,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "MNG-8530",
+    "count": 4,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-8561",
+    "count": 21,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-8563",
+    "count": 1,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "MNG-8564",
+    "count": 2,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-8565",
+    "count": 0,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-8540",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "MNG-8535",
+    "count": 10,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-8573",
+    "count": 0,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "MNG-8517",
+    "count": 3,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-8571",
+    "count": 0,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "MNG-8562",
+    "count": 2,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "MNG-8575",
+    "count": 1,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "MNG-8558",
+    "count": 5,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "MNG-8567",
+    "count": 1,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-8579",
+    "count": 0,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-8582",
+    "count": 0,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-8586",
+    "count": 2,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "MNG-8587",
+    "count": 0,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "MNG-8580",
+    "count": 0,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-8590",
+    "count": 0,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "MNG-8594",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "MNG-8588",
+    "count": 0,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-8600",
+    "count": 0,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-8601",
+    "count": 0,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "MNG-8604",
+    "count": 0,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "MNG-8602",
+    "count": 0,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-8605",
+    "count": 0,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "MNG-8610",
+    "count": 0,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "MNG-8611",
+    "count": 0,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "MNG-8613",
+    "count": 0,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "MNG-8620",
+    "count": 0,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "MNG-8616",
+    "count": 0,
+    "issue-type": "New Feature"
+  },
+  {
+    "issue-key": "MNG-8615",
+    "count": 0,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "MNG-8631",
+    "count": 0,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-8624",
+    "count": 0,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-8641",
+    "count": 0,
+    "issue-type": "Dependency upgrade"
+  },
+  {
+    "issue-key": "MNG-8639",
+    "count": 0,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-8612",
+    "count": 0,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-8490",
+    "count": 2,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "MNG-8645",
+    "count": 0,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-8646",
+    "count": 0,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "MNG-8629",
+    "count": 0,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-8647",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "MNG-8648",
+    "count": 0,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-8548",
+    "count": 2,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-5668",
+    "count": 0,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-8653",
+    "count": 0,
+    "issue-type": "New Feature"
+  },
+  {
+    "issue-key": "MNG-8598",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "MNG-4559",
+    "count": 2,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-8662",
+    "count": 0,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "MNG-8669",
+    "count": 0,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-3558",
+    "count": 1,
+    "issue-type": "New Feature"
+  },
+  {
+    "issue-key": "MNG-8660",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "MNG-8676",
+    "count": 0,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "MNG-8637",
+    "count": 0,
+    "issue-type": "New Feature"
+  },
+  {
+    "issue-key": "MNG-8679",
+    "count": 0,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-8684",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "MNG-8677",
+    "count": 0,
+    "issue-type": "Dependency upgrade"
+  },
+  {
+    "issue-key": "MNG-8685",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "MNG-8673",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "MNG-8687",
+    "count": 0,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "MNG-8694",
+    "count": 0,
+    "issue-type": "Wish"
+  },
+  {
+    "issue-key": "MNG-8670",
+    "count": 0,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-8717",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "MNG-8614",
+    "count": 0,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "MNG-8718",
+    "count": 0,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-8720",
+    "count": 0,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-8686",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "MNG-8726",
+    "count": 0,
+    "issue-type": "Dependency upgrade"
+  },
+  {
+    "issue-key": "MNG-8727",
+    "count": 0,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "MNG-8572",
+    "count": 0,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-8729",
+    "count": 0,
+    "issue-type": "Task"
+  },
+  {
+    "issue-key": "MNG-8713",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "MNG-8750",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "MNG-8759",
+    "count": 0,
+    "issue-type": "Improvement"
+  },
+  {
+    "issue-key": "MNG-8764",
+    "count": 0,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-8746",
+    "count": 0,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-8736",
+    "count": 0,
+    "issue-type": "Bug"
+  },
+  {
+    "issue-key": "MNG-8765",
+    "count": 0,
+    "issue-type": "New Feature"
+  }
+]
