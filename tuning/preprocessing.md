@@ -1,3 +1,12 @@
+# Results for Tuning Preprocessing
+
+This tables presented averages over all methods + projects.
+
+Highest performing method per metric (row) is underlined.
+
+*Lower, Stemming*  and *Lower, Stemming, Sub Tokens* perform best, with the former achieving better top 1 performance, and the latter achieving better top 5 and top 10 performance. The first option is presented in the paper, but this replication package contains statistical analysis for both.
+
+
 | Metric       | No~Processing | Sub Tokens | Lower | Lower, Sub Tokens | Lower, Stemming  | Lower, Stemming, Sub Tokens |
 |--------------|---------------|------------|-------|-------------------|------------------|-----------------------------|
 | Precision@1  | 0.299         | 0.293      | 0.315 | 0.308             | <ins>0.318</ins> | 0.303                       |

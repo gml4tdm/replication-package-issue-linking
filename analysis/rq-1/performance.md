@@ -2,6 +2,8 @@
 
 ### Performance by Method
 
+Averaged over all projects in the dataset.
+
 | Metric       | TF-IDF | rVSM  | LSI-500 | LSI-1000 | BM25             | Average |
 |--------------|--------|-------|---------|----------|------------------|---------|
 | Precision@1  | 0.302  | 0.243 | 0.273   | 0.295    | <ins>0.321</ins> | 0.287   |
@@ -16,6 +18,8 @@
 | MRR          | 0.405  | 0.356 | 0.376   | 0.400    | <ins>0.438</ins> | 0.395   |
 
 ### Performance by Project
+
+Averaged over all methods.
 
 | Metric       | Avro             | Maven | Tika             | Thrift           | TomEE | Spring Data MongoDB | Spring Roo | Average |
 |--------------|------------------|-------|------------------|------------------|-------|---------------------|------------|---------|
@@ -35,6 +39,8 @@
 
 ### Performance by Method
 
+Averaged over all projects in the dataset.
+
 | Metric       | TF-IDF | rVSM  | LSI-500 | LSI-1000 | BM25             | Average |
 |--------------|--------|-------|---------|----------|------------------|---------|
 | Precision@1  | 0.266  | 0.241 | 0.262   | 0.267    | <ins>0.302</ins> | 0.268   |
@@ -49,6 +55,8 @@
 | MRR          | 0.379  | 0.365 | 0.374   | 0.379    | <ins>0.426</ins> | 0.384   |
 
 ### Performance by Project
+
+Averaged over all methods.
 
 | Metric       | Avro  | Maven | Tika             | Thrift           | TomEE | Spring Data MongoDB | Spring Roo | Average |
 |--------------|-------|-------|------------------|------------------|-------|---------------------|------------|---------|

@@ -1,3 +1,14 @@
+Result of the Kruskal-Wallis test for difference between issue types.
+
+We present the statistic (epsilon-squared), together with the p-value of the Kruskal-Wallis test, for each method.
+
+Statistically significant results are presented with asterisks (&ast;).
+
+Effect size (epsilon squared) is presented as follows:
+- [0, 0.01) --> unformatted text
+- [0.01, 0.06) --> <ins>underlined text</ins>
+
+
 # rvsm
 
 ### Specific
@@ -170,6 +181,3 @@
 | Recall@10    | 0.002 / 0.049&ast; | 0.000 / 0.461 | 0.004 / 0.001&ast; | <ins>0.012 / 0.000</ins>&ast; | 0.001 / 0.156 | 0.000 / 0.910       | 0.000 / 0.839 |
 | r-Precision  | 0.000 / 0.843      | 0.001 / 0.114 | 0.000 / 0.588      | 0.000 / 0.277                 | 0.000 / 0.808 | 0.000 / 0.873       | 0.000 / 0.669 |
 | MRR          | 0.000 / 0.589      | 0.000 / 0.311 | 0.001 / 0.192      | 0.002 / 0.010&ast;            | 0.000 / 0.290 | 0.000 / 0.661       | 0.000 / 0.588 |
-
-
-

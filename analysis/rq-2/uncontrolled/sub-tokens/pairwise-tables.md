@@ -1,3 +1,10 @@
+Results of Conover's Post-Hoc test for difference between the individual issue types.
+
+If the Kruskal-Wallis test was not significant for a given project/metric combination for a given method, no Conover test was performed (N/A) in table. Otherwise, we present the p-value of the Conover test, together with the relation between the two issue types.
+
+Example: Bug/Improvement with `**0.001 (&lt;)**` signifies a statistically significant difference between the two issue types, with a p-value of `0.001`. The `&lt;` signifies that the performance for Bug `&lt;` Improvement.
+
+
 # rvsm
 
 ### Specific
@@ -670,6 +677,3 @@
 | Bug / New Feature         | Recall@10    | 0.060 (&lt;) | N/A   | **0.032 (&lt;)** | **0.000 (&lt;)** | N/A   | N/A                 | N/A        |
 | Bug / New Feature         | r-Precision  | N/A          | N/A   | N/A              | N/A              | N/A   | N/A                 | N/A        |
 | Bug / New Feature         | MRR          | N/A          | N/A   | N/A              | **0.006 (&lt;)** | N/A   | N/A                 | N/A        |
-
-
-

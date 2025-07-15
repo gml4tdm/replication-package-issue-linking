@@ -1,3 +1,11 @@
+# Results for Tuning the Formatting Handling
+
+This tables presented averages over all methods + projects.
+
+Highest performing method per metric (row) is underlined.
+
+*Raw* and *No Formatting* are similar, but *Raw* is technically better due to its superior performance in terms of r-Precision.
+
 | Metric       | Raw              | No Formatting    | No Blocks | Replace Blocks |
 |--------------|------------------|------------------|-----------|----------------|
 | Precision@1  | <ins>0.315</ins> | <ins>0.315</ins> | 0.301     | 0.301          |
