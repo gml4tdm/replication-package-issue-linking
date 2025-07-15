@@ -26,6 +26,8 @@ Containt the tables summarising the results for the tuning of the formatting han
 
 Contains the statistical analysis for the results presented in the paper.
 
+- [`analysis/identifier-count`](analysis/identifier-count): Contains the results for the identifier count analysis. It contains a breakdown of the number of identifiers per issue type (over all projects), and by project (over all issue types). For both, we provide a box plot, and the results of a statistical analysis using Kruskal-Wallis and Conover's Post-Hoc test.
+
 - [`analysis/rq-1/performance.md`](analysis/rq-1/performance.md): Contains the results for RQ 1 (performance). Contains both tables included in the paper, as well as the results for the `Lower, Stemming, Sub Tokens` option.
 
 - [`analysis/rq-2/uncontrolled`](analysis/rq-2/uncontrolled): Contains various results for RQ 2. One directory contains the results for the methods without sub-tokens; the other contains the results for the methods with sub-tokens. Each directory contains bar charts showing the performance of each method for each separate issue type (`<METHOD>_specific.png`) and with each specific issue type held out (`<METHOD>_holdout.png`). The `tables.md` file contains the results of the Kruskal-Wallis test (for difference between issue types) for each method. The `pairwise.md` file contains the results of Conover's Post-Hoc test for difference between the individual issue types.
