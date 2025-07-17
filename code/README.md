@@ -94,7 +94,7 @@ Arguments:
 
 This imports commits from the specified repository into the database, and performs the raw linking of commits to known issues in the database based on the provided regular expression pattern.
 
-Results are stored in the `commits`, `commit_file_modifcations`, `commit_parents`, and `commit_issue_links_raw` tables in the database.
+Results are stored in the `commits`, `commit_file_modifcations`, `commit_parents`, and `commit_issue_link_raw` tables in the database.
 
 If the issues linked to by commits are not present in the database, a file is created with the name `<Organisation>-<Project>-link-failures.json`, containing a list like the follwing:
 
@@ -108,9 +108,40 @@ a list of all the issue keys that could not be found in the database.
 
 ### `python -m linker refine-commit-links`
 
-### `python -m linker clean-text`
+Arguments:
+- `--postgres-url`: URL to the PostgreSQL database. (example: `postgres://postgres:pw@localhost:5432/issues`)
+- `--repo`: Name of the organisation to import commits from. Same as `--organisation` for `import-commits` (example: `Apache`)
+- `--project`: Name of the project to import commits from. (Example: `Thrift`). Note that this name must match the exact name of the project in Jira. Some projects might have unexpected names, such as Maven, whose Jira name is `Maven (Moved to GitHub Issues)`.
+- `--path`: Path to the local repository from which the commits were imported.
+
+After running the `import-commits` command, this command can be used to refine the linking of commits to issues. This command implements steps 2-4 from the commit to issue linking process described in the paper.
+
+Results are stored in the `commit_issue_link_refined` table in the database.
+
 
 ### `python -m linker generate-feature-plan-from-db`
+
+Arguments:
+- `--database-url`: URL to the PostgreSQL database. (example: `postgres://postgres:pw@localhost:5432/issues`)
+- `--repo-name`: Name of the organisation to import commits from. Same as `--organisation` for `import-commits` (example: `Apache`)
+- `--project-name`: Name of the project to import commits from. (Example: `Thrift`). Note that this name must match the exact name of the project in Jira. Some projects might have unexpected names, such as Maven, whose Jira name is `Maven (Moved to GitHub Issues)`.
+- `--repo-path`: Path to the local repository from which the commits were imported.
+- `--output-directory`: Path to the output directory. Will be created if it does not exist.
+
+This command generates a set of files importable by our data loader. A file `index.json` is generated, containing ground truths, a dense encoding of changes per commits and other commit information, and information about where to find the content of issues and source files. Contents of issues is stored in the `issue-features` directory; contents of files in the `source-code` directory, and file names in the `filenames` directory. All text content is stored in dense JSON files of roughly 1GB each. The easiest way to load this data is to use the data loader.
+
+### `python -m linker clean-text`
+
+Arguments:
+- `--input-directory`: Path to the input directory containing the text features for issues.
+- `--output-directory`: Path to the output directory. Will be created if it does not exist.
+- `--issue-type`: Type of the issue. Must be `jira`
+- `--mode`: Mode of cleaning. `raw` leaves text as-is. `remove-formatting` removes formatting (e.g. block syntax) from text, but keeps block content. `remove-formatting-and-blocks` fully removes block content. `remove-formatting-and-replace blocks` removes formatting and replaces blocks with special marker tokens.
+
+Preprocecesses the text of issues.
+
+The output directory should be in the same directory as the `issue-features` directory. E.g. if `--input-directory` is `a/b/c/issue-features`, the output directory should be `a/b/c/issue-features-clean`. This is not enforced in the code,
+but not doing so will lead to downstream errors.
 
 ### `python -m linker vsm`
 
