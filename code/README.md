@@ -145,7 +145,46 @@ but not doing so will lead to downstream errors.
 
 ### `python -m linker vsm`
 
+Arguments:
+- `--input-directory`: Path to the input directory containing the `index.json`  file and all feature/text directories.
+- `--output-directory`: Path to the output directory. Will be created if it does not exist.
+- `--issue-directory`: directory from which issue features will be loaded. Must be a subdirectory of `input-directory`. (e.g. `issue-features-cleaned`)
+- `--corpus-source`: obsolete. Must be `source`
+- `--mode`: obsolete. Must be `user`
+- `--kind`: which retrieval model to use. Must be `bm25-rank` (!not `bm25`!), `tfidf`, or `rvsm`
+- `--sep` (flag): Obsolete. Must always be given
+- `--split`: data split for validation/test. Must be integers separated by a slash. All numbers must sum to 100 (e.g. `50/50`)
+- `--run-on`: specify which dataset split to run on. `0` -> run on first split, `1` -> run on second split, etc.
+- `--lsa-components`: Must be used with `--mode tfidf`. Turns the model into a LSI model. Must be an integer specifying the target dimension.
+- `--stemming` (flag): if given, enable stemming
+- `--lower-case` (flag): if given, enable lowercasing
+- `--sub-token-splitting` (flag): if given, enable sub-token splitting
+- `--detailed-performance` (flag): if given, performance output will contain performance scores per issue, alongside the usual global agregate scores.
+- `--extra-options`: string specifying extra mode specific options. See below
+
+Evaluate a specific information retrieval model on a given dataset, storing the performance metrics in the given output directory.
+
+#### Extra Options
+
+##### `--mode tfidf`
+- `tf`: which term frequency to use. Can be `binary` (0 if term not present, 1 otherwise), `log` (log of term frequency + 1), `count` (use absolute term count), `freq` (use length-normalisd term frequency), or `norm` (double normalisation 0.5)
+- `idf`: which inverse document frequency to use. Can be `unary` (1), `idf` (IDF as in sklearn), `max` (log of max frequency over all documents, divided by number of documents containing the term), or `prob` (log(N - n_t) / n_t)), where N is the total number of documents and n_t the number of documents containign the given term)
+
+Example: `--extra-options "tf=freq,idf=prob"`
+
+##### `--mode bm25-rank`
+- `k1`: BM25 parameter k1
+- `b`: BM25 parameter b
+- `delta`: BM25+ parameter delta
+- `component_weigthts`: BM25F field weights.
+
+Example (assumuing documents with two fields): `--extra-options "k1=1.2,b=0.75,delta=1.0,component_weigthts=0.2;0.8"`
+
+
+
 ### `python -m linker make-matrix`
+
+### `python -m linker evaluate`
 
 ### `python -m linker analyse-stats-matrix`
 
