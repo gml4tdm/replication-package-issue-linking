@@ -6,6 +6,10 @@
 - [Regexes for Identifiers and File Names](docs/regexes.md)
 - [Issue Type Details](docs/issue_types.md)
 
+## Code
+Code directory: [`code`](code)
+
+Code documentation: [`code/README.md`](code/README.md)
 
 ## Directory Structure
 
@@ -13,6 +17,7 @@
 
 Contains the raw results of all experiments.
 
+- `results/link-failures`: Contains lists of issues mentioned in commits whose key was not found in the issue tracker. See documentation of the [`import-commits`](code/README.md) command for more details.
 - `results/ir-1`: Contains the results for tuning the formatting handling
 - `results/ir-2`: Contains the results for tuning the remainder of the preprocessing
 - `results/ir-3`: Contains the results for the actual experiments presented in the paper
