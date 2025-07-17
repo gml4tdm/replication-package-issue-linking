@@ -1,0 +1,283 @@
+{
+  "extensions": {
+    "": {
+      "name": "Unknown",
+      "kind": "wildcard"
+    },
+    ".apt": {
+      "name": "APT",
+      "kind": "config"
+    },
+    ".avsc": {
+      "name": "Avro Schema",
+      "kind": "config"
+    },
+    ".conf": {
+      "name": "Conf",
+      "kind": "config"
+    },
+    ".config": {
+      "name": "Config",
+      "kind": "config"
+    },
+    ".crc": {
+      "name": "CRC",
+      "kind": "checksum"
+    },
+    ".css": {
+      "name": "CSS",
+      "kind": "source-code"
+    },
+    ".data": {
+      "name": ".data",
+      "kind": "unknown"
+    },
+    ".dtd": {
+      "name": "DTD",
+      "kind": "config"
+    },
+    ".err": {
+      "name": ".err",
+      "kind": "program-output"
+    },
+    ".fml": {
+      "name": "FML",
+      "kind": "config"
+    },
+    ".html": {
+      "name": "HTML",
+      "kind": "source-code"
+    },
+    ".htm": {
+      "name": "HTML",
+      "kind": "source-code"
+    },
+    ".jsp": {
+      "name": "Java Server Page",
+      "kind": "source-code"
+    },
+    ".log": {
+      "name": "Log",
+      "kind": "program-output"
+    },
+    ".old": {
+      "name": "",
+      "kind": "phased-out"
+    },
+    ".orc": {
+      "name": "ORC",
+      "kind": "data"
+    },
+    ".patch": {
+      "name": "Patch",
+      "kind": "source-code"
+    },
+    ".plan": {
+      "name": ".plan",
+      "kind": "unknown"
+    },
+    ".Plan": {
+      "name": ".Plan",
+      "kind": "unknown"
+    },
+    ".proto": {
+      "name": "Protocol Buffer",
+      "kind": "config"
+    },
+    ".pyc": {
+      "name": "Python (Compiled)",
+      "kind": "binary"
+    },
+    ".rdf": {
+      "name": "RDF",
+      "kind": "config"
+    },
+    ".result": {
+      "name": ".result",
+      "kind": "unknown"
+    },
+    ".rst": {
+      "name": "reStructuredText",
+      "kind": "text/documentation"
+    },
+    ".scala": {
+      "name": "Scala",
+      "kind": "source-code"
+    },
+    ".schema": {
+      "name": "Schema",
+      "kind": "config"
+    },
+    ".SelfDiagnosisRuleProvider": {
+      "name": "SelfDiagnosisRuleProvider",
+      "kind": "source-code"
+    },
+    ".tbl": {
+      "name": ".tbl",
+      "kind": "unknown"
+    },
+    ".xsd": {
+      "name": "XML Schema",
+      "kind": "config"
+    },
+    ".xsl": {
+      "name": "XSL",
+      "kind": "source-code"
+    }
+  },
+  "bulk": [
+    {
+      "kind": "source-code",
+      "items": [
+        ".py",
+        ".java",
+        ".c",
+        ".h",
+        ".cpp",
+        ".cc",
+        ".tcc",
+        ".rs",
+        ".pyo",
+        ".pyi",
+        ".pyx",
+        ".rb",
+        ".js",
+        ".sh",
+        ".cmd",
+        ".php",
+        ".ts",
+        ".g",
+        ".g4",
+        ".htm",
+        ".html",
+        ".xhtml",
+        ".scala",
+        ".cs",
+        ".m",
+        ".swift",
+        ".bat"
+      ]
+    },
+    {
+      "kind": "text-or-docs",
+      "items": [
+        ".md",
+        ".txt",
+        ".adoc",
+        ".wiki"
+      ]
+    },
+    {
+      "kind": "hash-or-key",
+      "items": [
+        ".sha256",
+        ".pgp",
+        ".gpg"
+      ]
+    },
+    {
+      "kind": "media",
+      "items": [
+        ".mp3",
+        ".mp4",
+        ".mov"
+      ]
+    },
+    {
+      "kind": "data-language",
+      "items": [
+        ".csv",
+        ".json",
+        ".xml",
+        ".yaml",
+        ".yml",
+        ".toml"
+      ]
+    },
+    {
+      "kind": "build-file",
+      "items": [
+        ".ant",
+        ".gradle",
+        ".groovy",
+        ".ivy",
+        ".jenkinsfile",
+        ".pom"
+      ]
+    },
+    {
+      "kind": "query-language",
+      "items": [
+        ".sql",
+        ".ddl",
+        ".graphql",
+        ".graphqls",
+        ".hiveql",
+        ".cql",
+        ".cqlsh",
+        ".tql"
+      ]
+    },
+    {
+      "kind": "image",
+      "items": [
+        ".jpeg",
+        ".jpg",
+        ".png",
+        ".svg",
+        ".webp",
+        ".gif",
+        ".bmp",
+        ".ico",
+        ".tiff"
+      ]
+    },
+    {
+      "kind": "archive",
+      "items": [
+        ".zip",
+        ".tar",
+        ".gz",
+        ".bz2",
+        ".xz",
+        ".rar",
+        ".7z",
+        ".jar",
+        ".war",
+        ".ear",
+        ".sar",
+        ".har",
+        ".apk",
+        ".ipa",
+        ".dmg",
+        ".iso",
+        ".img",
+        ".bin",
+        ".exe",
+        ".msi",
+        ".deb",
+        ".rpm",
+        ".pkg",
+        ".cab",
+        ".dmg",
+        ".egg",
+        ".gem",
+        ".msi",
+        ".zip"
+      ]
+    },
+    {
+      "kind": "config",
+      "items": [
+        ".ini",
+        ".properties",
+        ".config",
+        ".cfg",
+        ".conf"
+      ]
+    }
+  ],
+  "included": [
+    "source-code"
+  ]
+}

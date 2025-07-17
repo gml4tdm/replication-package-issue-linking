@@ -1,0 +1,29 @@
+name: issue-linking
+channels:
+  - defaults
+dependencies:
+  - python=3.11
+  - pip=25.0
+  - pip:
+      - maturin
+      - typed-argument-parser
+      - pydriller
+      - alive_progress
+      - psycopg
+      - psycopg_binary
+      - transformers[torch]
+      - torchmetrics
+      - jira
+      - matplotlib
+      - scikit-learn
+      - xgboost
+      - texttable
+      - seaborn
+      - gensim
+      - nltk
+      - graphviz
+      - scikit-posthocs
+      - pingouin
+      - statsmodels
+      - pandas
+      - numpy
