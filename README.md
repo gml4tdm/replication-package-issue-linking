@@ -1,8 +1,10 @@
 # Towards Issue Change Impact Prediction -- Replication Package
 
-## Table of Contents
+## Supplementary Reading
 
 - [Extensions](docs/extensions.md)
+- [Regexes for Identifiers and File Names](docs/regexes.md)
+- [Issue Type Details](docs/issue_types.md)
 
 
 ## Directory Structure
