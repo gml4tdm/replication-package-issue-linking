@@ -36,38 +36,59 @@ class LiveIndexLoader:
 
     @property
     def number_of_issues(self) -> int:
+        """numbef of issues in the dataset"""
         ...
 
     @property
     def dropped_issues(self) -> int:
+        """Number of issues dropped from the dataset because
+        none of their associated commits had any positive samples.
+        """
         ...
 
     @property
     def dropped_commits(self) -> int:
-        ...
+        """Number of commits that were dropped from the dataset
+        because they had no associated positive samples.
+        """
 
     def get_issue(self, idx: int) -> IssueCommitCollection:
-        ...
+        """Get a data bucket for a single issue."""
 
 
 class IssueCommitCollection:
+    """Data bucket for a single issue.
+
+    Contains references to all commits with the issue,
+    and the corresponding positive and negative samples.
+    """
 
     @property
     def issue_key(self) -> str:
+        """key of the issue."""
         ...
 
     @property
     def dropped_commits(self) -> int:
+        """Number of commits dropped from the dataset
+        for this particular issue because they had no
+        associated positive samples.
+        """
         ...
 
     @property
     def number_of_commits(self) -> int:
+        """Number of commits in the dataset for this issue,
+        after dropping issues without positive samples.
+        """
         ...
 
     def get_commit(self, idx: int) -> Commit:
+        """Get the n-th commit (0-indexed) for this issue."""
         ...
 
     def get_commits(self) -> list[Commit]:
+        """Get all commits for this issue."""
         ...
 
 
@@ -75,16 +96,26 @@ class Commit:
 
     @property
     def commit_hash(self) -> str:
+        """hash of the commit."""
         ...
 
     @property
     def issue_index(self) -> tuple[int, int]:
+        """Index used to identify the text content of the issue.
+
+        See Quickstart Guide for more details.
+        """
         ...
 
     def samples(self) -> list[LiveSample]:
+        """List of samples for this commit."""
         ...
 
     def lightweight_samples(self) -> list[LightweightLiveSample]:
+        """List of lightweight samples for this commit.
+        Uses less memory than `samples`, but misses some information
+        like file names.
+        """
         ...
 
 
@@ -92,18 +123,29 @@ class LiveSample:
 
     @property
     def file_name(self) -> str:
+        """Name of the file."""
         ...
 
     @property
     def file_name_index(self) -> tuple[int, int]:
+        """Index used to identify the file name amongst the text features.
+
+        See Quickstart Guide for more details.
+        """
         ...
 
     @property
     def source_index(self) -> tuple[int, int]:
+        """Index used to identify the source file content
+        amongst the text features.
+
+        See Quickstart Guide for more details.
+        """
         ...
 
     @property
     def label(self) -> bool:
+        """Label indicating whether the file was modified in the commit."""
         ...
 
 
@@ -111,14 +153,24 @@ class LightweightLiveSample:
 
     @property
     def file_name_index(self) -> tuple[int, int]:
+        """Index used to identify the file name amongst the text features.
+
+        See Quickstart Guide for more details.
+        """
         ...
 
     @property
     def source_index(self) -> tuple[int, int]:
+        """Index used to identify the source file content
+        amongst the text features.
+
+        See Quickstart Guide for more details.
+        """
         ...
 
     @property
     def label(self) -> bool:
+        """Label indicating whether the file was modified in the commit."""
         ...
 
 
@@ -153,7 +205,7 @@ class IndexLoader:
 
     def get_samples_for_bucket(self, index: int) -> list[Sample]:
         ...
-    
+
     def get_bucket_sample_collection(self, index: int) -> SampleBucket:
         ...
 
@@ -235,16 +287,16 @@ class LightweightSample:
 
     @property
     def label(self) -> bool: ...
-    
-    
+
+
 class SampleBucket:
 
     def __repr__(self) -> str: ...
-    
-    @property 
+
+    @property
     def issue_key(self) -> str: ...
-    
-    @property 
+
+    @property
     def commits(self) -> list[str]: ...
 
     @property

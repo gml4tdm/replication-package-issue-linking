@@ -64,6 +64,9 @@ Alternatively, our entire pre-downloaded database can also be loaded. To do this
 docker exec -it services-postgres-1 pg_restore -d issues -U postgres /archives/issues/issue-dump.sql
 ```
 
+## Quickstart
+The [Quickstart Guide](quickstart.md) provides a high-level overview of how to use the reusable components of our work -- which are the data pipeline and data loader. Note that quickstart guide may reference the detailed command reference below.
+
 ## Commands
 The `linker` package is callable and can be used to
 run a number of different commands. Below, we describe
