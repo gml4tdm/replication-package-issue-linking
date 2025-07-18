@@ -85,17 +85,27 @@ _METRIC_MAPPING = {
     'retrieval-recall': 'Recall',
     'mrr': 'MRR',
     'r-precision': 'r-Precision',
-    'hit-rate': 'hit'
+    'hit-rate': 'Hit'
 }
 
 
-def rename_metric(m: str) -> str:
+def rename_metric(m: str, *, abbreviate: bool = False) -> str:
     if '-top-' in m:
         m, top = m.split('-top-')
         suffix = f'@{top}'
     else:
         suffix = ''
-    return _METRIC_MAPPING[m] + suffix
+    out = _METRIC_MAPPING[m] + suffix
+    if not abbreviate:
+        return out
+    if out == 'r-Precision':
+        return 'RP'
+    if out == 'MRR':
+        return 'MRR'
+    if '@' in out:
+        first, last = out.split('@')
+        return f'{first[0].upper()}@{last}'
+    return out[0]
 
 
 def rename_project(m: str) -> str:
@@ -357,14 +367,15 @@ def method_plot(data, target_method, which, stats, out: pathlib.Path):
 
     ax.set_yticks([0, 0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7])
     ax.set_xticks(x_base)
+    ax.tick_params(axis='x', labelsize=15)
     ax.set_xticklabels(
-        [rename_metric(m) for m in metrics],
+        [rename_metric(m, abbreviate=False) for m in metrics],
         rotation=25,
         rotation_mode='anchor',
         ha='right'
     )
-    ax.legend(bbox_to_anchor=(0.125, 1.02, 0.75, 0.2), loc="lower left",
-               mode="expand", borderaxespad=0, ncol=4)
+    ax.legend(bbox_to_anchor=(0.05, 1.02, 0.9, 0.2), loc="lower left",
+               mode="expand", borderaxespad=0, ncol=4, fontsize=15)
     #ax.legend()
 
     fig.tight_layout()

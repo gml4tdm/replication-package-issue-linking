@@ -17,6 +17,7 @@ import tap
 import texttable
 
 import matplotlib.pyplot as pyplot
+import matplotlib.colors as mpl_colors
 import seaborn
 
 ################################################################################
@@ -301,6 +302,14 @@ def method_to_heatmap(
                 frame_data['cell'].append(cell)
         matrix.append(row)
 
+    viridis = pyplot.cm.get_cmap('viridis')
+    cmap = mpl_colors.ListedColormap([
+        'white',
+        viridis(0/2),
+        viridis(1/2),
+        viridis(2/2)
+    ])
+
     v_min = min(frame_data['cell'])
     v_max = max(frame_data['cell'])
     df = pandas.DataFrame(frame_data)
@@ -312,8 +321,9 @@ def method_to_heatmap(
     grid.map_dataframe(
         _pandas_heatmap,
         vmin=v_min, vmax=v_max,
-        cmap='viridis',
+        cmap=cmap,
         linewidths=1.0,
+        linecolor='black',
         cbar=False,
         #cbar_ax=cax,
         issue_types=issue_types, metrics=list(metrics),
@@ -326,34 +336,67 @@ def method_to_heatmap(
     grid.set_xticklabels(
         [tp[0].upper() for tp in issue_types]
     )
+    grid.tick_params(
+        labelsize=20
+    )
     grid.set_titles(
         col_template="{col_name}",
+        size=20
     )
     from matplotlib.patches import Patch
-    cmap = pyplot.cm.get_cmap('viridis')
-    grid.add_legend(
-        {
-            'Insignificant ($p \\geq 0.05$)': Patch(
-                facecolor=cmap(0/3),
-                edgecolor='black'
-            ),
-            'Very Weak ($|\\rho| \in [0, 0.2)$)': Patch(
-                facecolor=cmap(1/3),
-                edgecolor='black'
-            ),
-            'Weak ($|\\rho| \in [0.2, 0.4)$)': Patch(
-                facecolor=cmap(2/3),
-                edgecolor='black'
-            ),
-            'Moderate ($|\\rho| \in [0.4, 0.6)$)': Patch(
-                facecolor=cmap(3/3),
-                edgecolor='black'
-            ),
-        }
-    )
-    grid.tight_layout()
+    from matplotlib.transforms import BboxTransformTo, TransformedBbox, Affine2D
+    from matplotlib.transforms import Bbox
+
+    legend_items = {
+        'Insignificant ($p \\geq 0.05$)': Patch(
+            facecolor=cmap(0/3),
+            edgecolor='black',
+            label='Insignificant ($p \\geq 0.05$)'
+        ),
+        'Very Weak ($|\\rho| \\in [0, 0.2)$)': Patch(
+            facecolor=cmap(1/3),
+            edgecolor='black',
+            label='Very Weak ($|\\rho| \\in [0, 0.2)$)'
+        ),
+        'Weak ($|\\rho| \\in [0.2, 0.4)$)': Patch(
+            facecolor=cmap(2/3),
+            edgecolor='black',
+            label='Weak ($|\\rho| \\in [0.2, 0.4)$)'
+        ),
+        'Moderate ($|\\rho| \\in [0.4, 0.6)$)': Patch(
+            facecolor=cmap(3/3),
+            edgecolor='black',
+            label='Moderate ($|\\rho| \\in [0.4, 0.6)$)'
+        ),
+    }
+
+    if len(grid.axes) % 2 == 0:
+        raise NotImplementedError('Odd number of axes required')
+    #grid.tight_layout()
     #grid.fig.set_constrained_layout(True)
-    grid.fig.subplots_adjust(right=0.9, left=0.05)
+    grid.figure.subplots_adjust(right=0.99, left=0.04)
+    ax = grid.axes[0][len(grid.axes) // 2]
+    alpha = 0.6
+    print(grid.figure.subplotpars.bottom)
+    beta = 0.05
+    # bb = (
+    #     grid.figure.subplotpars.left + (grid.figure.subplotpars.right - grid.figure.subplotpars.left)*(1 - alpha)/2,
+    #     grid.figure.subplotpars.bottom - beta,
+    #     (grid.figure.subplotpars.right - grid.figure.subplotpars.left) * alpha,
+    #     beta
+
+    # )
+    grid.figure.legend(
+        bbox_to_anchor=(0.5 - 0.7/2, -0.01, 0.7, 0.1),     # bb,
+        mode='expand',
+        handles=list(legend_items.values()),
+        loc='lower left',
+        ncol=4,
+        #bbox_transform=grid.figure.transFigure,
+        fontsize=20
+    )
+    grid.figure.subplots_adjust(bottom=0.26)
+
     pyplot.show()
 
 
@@ -454,19 +497,19 @@ class Args(tap.Tap):
         'tika:Tika',
         'thrift:Thrift',
         'tomee:TomEE',
-        'spring-data-mongodb:Spring Data MongoDB',
-        'spring-roo:Spring Roo'
+        'spring-data-mongodb:DMDB',
+        'spring-roo:Roo'
     ]
     metrics: list[str] = [
-        'retrieval-precision-top-1:Precision@1',
-        'retrieval-precision-top-5:Precision@5',
-        'retrieval-precision-top-10:Precision@10',
-        'hit-rate-top-5:Hit@5',
-        'hit-rate-top-10:Hit@10',
-        'retrieval-recall-top-1:Recall@1',
-        'retrieval-recall-top-5:Recall@5',
-        'retrieval-recall-top-10:Recall@10',
-        'r-precision:r-Precision',
+        'retrieval-precision-top-1:P@1',
+        'retrieval-precision-top-5:P@5',
+        'retrieval-precision-top-10:P@10',
+        'hit-rate-top-5:H@5',
+        'hit-rate-top-10:H@10',
+        'retrieval-recall-top-1:R@1',
+        'retrieval-recall-top-5:R@5',
+        'retrieval-recall-top-10:R@10',
+        'r-precision:RP',
         'mrr:MRR'
     ]
     issue_types: list[str] = [
