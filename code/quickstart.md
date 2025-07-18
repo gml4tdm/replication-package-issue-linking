@@ -1,8 +1,24 @@
 # Quickstart Guide
 
-## Generating Data for a Repository
+## Using Our Existing Dataset
+After the data (in `issue-linking.zip`) is unzipped, a project can be loaded as follows:
 
-### Importing Issues (Jira)
+```python
+from linker._accelerator import LiveIndexLoader
+
+loader = LiveIndexLoader.load('packed/<project>-packed/index.json')
+```
+
+Full API documentation for the loader can be found in [`linker/_accelerator.pyi`](code/linker/python/linker/_accelerator.pyi).
+
+The documentation in `_accelerator.pyi` sometimes makes references to indexes for text content. These indexe are 2-tuples of integers.
+Suppose that our `index.json` file is located in `/path/to/dataset/index.json`, and we want to find the associated text for the issue with issue index `(1, 231)`. We then have to load the file `1.json` from `/path/to/dataset/issue-features/1.json`, and fetch the content of index `231` from the resulting list. The mechanism is similar for source code and file names, but these use the `source-code` and `filenames` folders, respectively.
+
+
+### Generating a New Dataset
+### Generating Data for a Repository
+
+#### Importing Issues (Jira)
 To obtain a list of Jira instances known by the system, you can first enter the postgres command line:
 
 ```bash
@@ -26,7 +42,7 @@ Here, `$0` should be replaced with the name of the instance, `$1` with the URL o
 
 Invoke the `update-issues` command to download or update issues from a specific instance.
 
-### Importing Issues (non-Jira)
+#### Importing Issues (non-Jira)
 Non-Jira issue tracker are not natively supported. However, as long as issues are properly inserted into the database, the system will be able to work with them.
 
 This process is somewhat technical, and we only provide a high level overview here; the user should consult e.g. the schema definition for more details.
@@ -45,10 +61,10 @@ Finally, the user can insert issues into the `issue table`. The fields that shou
 - `summary`: title of the issue
 `description`: description/body of the issue
 
-### Cloning Repo
+#### Cloning Repo
 Once all necessary issues are stored in the database, clone the repository to be analysed using `git`.
 
-### Issue Linking
+#### Issue Linking
 Once the issues and repostory are in place, use the following sequence of commands to links issues to commits, and store the results in the database:
 
 - `import-commits`
@@ -56,12 +72,12 @@ Once the issues and repostory are in place, use the following sequence of comman
 
 The full documentation for these command can be found in the [README of the /code directory](code/README.md).
 
-### Dataset Generation
+#### Dataset Generation
 After linking issues to commits, run the `generate-feature-plan-from-db` command to generate a dataset.
 
 Optionally, use the `clean-text` command to preprocess issue text content.
 
-## Loading a Dataset
+### Loading the Dataset
 Once a dataset is generated, it can be loaded in Python code using our dataset loader.
 
 Assuming all setup steps have been completed, the loader can be imported and invoked as follows:
